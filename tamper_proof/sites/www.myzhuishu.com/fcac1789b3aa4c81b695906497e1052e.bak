@@ -1,0 +1,437 @@
+﻿<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,width=device-width,initial-scale=1.0" />
+	<title>玄幻小说_蚂蚁追书</title>
+	<meta name="keywords" content="玄幻小说,蚂蚁追书,玄幻小说排行,玄幻小说在线阅读">
+	<meta name="description" content="蚂蚁追书为您提供玄幻小说在线阅读、无弹窗玄幻小说、玄幻小说txt下载，蚂蚁追书推荐您收藏本站。">
+	<link rel="stylesheet" type="text/css" href="/Public/wap/css/ptm.min.css?v6.14" />
+	<link rel="stylesheet" type="text/css" href="/Public/wap/css/skin.min.css" />
+	<link rel="stylesheet" type="text/css" href="/Public/wap/css/font-awesome.min.css" />
+</head>
+<body>
+<header class="ptm-bar ptm-bar-nav">
+	<a class="ptm-pull-left" href="/">
+		<span class="ptm-iconfont fa fa-home"></span>
+	</a>
+	<div class="ptm-title">蚂蚁追书</div>
+	<a class="ptm-pull-right" href="javascript:;">
+		<span class="ptm-iconfont fa fa-search"></span>
+	</a>
+	<div class="back_r"><a id="translatelink" style="color:red;" href="javascript:translatePage();" title="点击[繁/简]切换">繁体版</a></div>
+</header>
+<section class="ptm-content">
+	<div class="ptm-tab">
+	<ul class="ptm-tab-nav">
+		<li ><a href="http://m.myzhuishu.com/">首页</a></li>
+		<li class="nav-sort active"><a href="/xiaoshuodaquan">分类</a></li>
+		<li ><a href="/paihangbang/">排行</a></li>
+		<li ><a href="/home/search">搜索</a></li>
+		<li ><a href="/home/index/bookcase">书架</a></li>
+	</ul>
+</div>
+	<div class="categories ptm-clearfix">
+		<ul>
+			<li><a href="/xiaoshuodaquan">全部小说</a></li>
+			<li><a href="/xuanhuan/" class="current">玄幻小说</a></li><li><a href="/xiuzhen/" >修真小说</a></li><li><a href="/dushi/" >都市小说</a></li><li><a href="/lishi/" >历史小说</a></li><li><a href="/wangyou/" >网游小说</a></li><li><a href="/kehuan/" >科幻小说</a></li><li><a href="/nvpin/" >女频小说</a></li>		</ul>
+		<div class="c10"></div>
+	</div>
+	<div class="ptm-card">
+		<div class="ptm-card-header ptm-clearfix">
+			<div class="ptm-pull-left">
+				玄幻小说本月热门
+			</div>
+			<div class="ptm-pull-right">
+				<a href="/paihangbang/">更多>></a>
+			</div>
+		</div>
+		<div class="ptm-card-content" style="padding:0">
+			<ul class="ptm-list-view ptm-grid-view pt-card-1">
+				<li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/10_10484/" title="超维术士"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/10/10484.jpg" alt="超维术士"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/10_10484/" title="超维术士">超维术士</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/6_6724/" title="封帝录"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="封帝录"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/6_6724/" title="封帝录">封帝录</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/6_6702/" title="《我的魔法时代》"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6702.jpg" alt="《我的魔法时代》"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/6_6702/" title="《我的魔法时代》">《我的魔法时代》</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/6_6701/" title="《星际金仙帝国》"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6701.jpg" alt="《星际金仙帝国》"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/6_6701/" title="《星际金仙帝国》">《星际金仙帝国》</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/12_12633/" title="劈天斩神"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/12/12633.jpg" alt="劈天斩神"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/12_12633/" title="劈天斩神">劈天斩神</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/14_14177/" title="《高冷老公，宠到底！》"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="《高冷老公，宠到底！》"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/14_14177/" title="《高冷老公，宠到底！》">《高冷老公，宠到底！》</a></span>
+					</div>
+				</li>			</ul>
+		</div>
+	</div>
+		<div class="ptm-card">
+		<div class="ptm-card-header ptm-clearfix">
+			<div class="ptm-pull-left">
+				玄幻小说小说大全
+			</div>
+			<div class="ptm-pull-right">
+				第1页
+			</div>
+		</div>
+		<div class="ptm-card-content">
+			<ul class="pt-card pt-card-7">
+				<li>
+					<div class="pt-cover">
+						<a href="/10_10484/" title="超维术士"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/10/10484.jpg" alt="超维术士"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">15042</span>人阅读</div>
+						<div class="pt-name"><a href="/10_10484/" title="超维术士">超维术士</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E7%89%A7%E7%8B%90.html" target="_blank" title="牧狐">牧狐</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：两个不同宇宙文明的偶然接洽，造就了一位追求时空终极的旅人，并由此点燃了一道永不熄灭的文明之火。</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/17_17135/" title="《豪门婚宠：娇妻别来无恙》"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/17/17135.jpg" alt="《豪门婚宠：娇妻别来无恙》"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">6</span>人阅读</div>
+						<div class="pt-name"><a href="/17_17135/" title="《豪门婚宠：娇妻别来无恙》">《豪门婚宠：娇妻别来无恙》</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E8%A5%84%E9%9F%B3.html" target="_blank" title="襄音">襄音</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：《豪门婚宠：娇妻别来无恙》为作者襄音创作，作品豪门婚宠：娇妻别来无恙章章动人，凤凰小说网为你第一时间</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/17_17131/" title="《时光虽逝》"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/17/17131.jpg" alt="《时光虽逝》"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">8</span>人阅读</div>
+						<div class="pt-name"><a href="/17_17131/" title="《时光虽逝》">《时光虽逝》</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E6%88%91%E7%9A%84%E5%A8%85.html" target="_blank" title="我的娅">我的娅</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：《时光虽逝》为作者我的娅创作，作品时光虽逝章章动人，凤凰小说网为你第一时间提供我的娅精心编写原创时光</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/18_18151/" title="我在异界当奶爸的日子"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/18/18151.jpg" alt="我在异界当奶爸的日子"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">4</span>人阅读</div>
+						<div class="pt-name"><a href="/18_18151/" title="我在异界当奶爸的日子">我在异界当奶爸的日子</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%85%AD%E5%85%AD%E5%B0%8F%E7%8E%8B%E5%AD%90.html" target="_blank" title="六六小王子">六六小王子</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：最不想穿越的奶爸肖何无奈的加入到穿越大军之中，并且在剑与魔法的异界也有了几个女儿，至于这些女儿的隐藏</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/17_17184/" title="《重生超级富豪》"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="《重生超级富豪》"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">7</span>人阅读</div>
+						<div class="pt-name"><a href="/17_17184/" title="《重生超级富豪》">《重生超级富豪》</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E4%B8%BA%E4%BD%A0%E5%BC%83%E6%AE%B7%E5%95%86.html" target="_blank" title="为你弃殷商">为你弃殷商</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：《重生超级富豪》为作者为你弃殷商创作，作品重生超级富豪章章动人，凤凰小说网为你第一时间提供为你弃殷商</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/17_17061/" title="《佳人何可栖》"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/17/17061.jpg" alt="《佳人何可栖》"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">10</span>人阅读</div>
+						<div class="pt-name"><a href="/17_17061/" title="《佳人何可栖》">《佳人何可栖》</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E4%BD%B3%E5%B0%94%E6%A5%A0.html" target="_blank" title="佳尔楠">佳尔楠</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：《佳人何可栖》为作者佳尔楠创作，作品佳人何可栖章章动人，凤凰小说网为你第一时间提供佳尔楠精心编写原创</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/7_7442/" title="武侠之揽美逍遥"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="武侠之揽美逍遥"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">95</span>人阅读</div>
+						<div class="pt-name"><a href="/7_7442/" title="武侠之揽美逍遥">武侠之揽美逍遥</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E2%80%A6.html" target="_blank" title="…">…</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：武侠之揽美逍遥是由作者创作的玄幻小说，欢迎您来本站阅读武侠之揽美逍遥</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/18_18242/" title="重生金钱帝国"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/18/18242.jpg" alt="重生金钱帝国"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">12</span>人阅读</div>
+						<div class="pt-name"><a href="/18_18242/" title="重生金钱帝国">重生金钱帝国</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E8%B4%B4%E5%A3%AB.html" target="_blank" title="贴士">贴士</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：重生金钱帝国是由作者贴士创作的玄幻小说，欢迎您来本站阅读重生金钱帝国</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/17_17194/" title="《道魔纪事》"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="《道魔纪事》"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">20</span>人阅读</div>
+						<div class="pt-name"><a href="/17_17194/" title="《道魔纪事》">《道魔纪事》</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%AD%9D%E5%AD%BA.html" target="_blank" title="孝孺">孝孺</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：《道魔纪事》为作者孝孺创作，作品道魔纪事章章动人，凤凰小说网为你第一时间提供孝孺精心编写原创道魔纪事</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/17_17129/" title="《唇唇欲动：影帝boss求轻缠》"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="《唇唇欲动：影帝boss求轻缠》"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">19</span>人阅读</div>
+						<div class="pt-name"><a href="/17_17129/" title="《唇唇欲动：影帝boss求轻缠》">《唇唇欲动：影帝boss求轻缠》</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%A2%A8%E6%9F%93%E4%B8%80%E4%B8%96.html" target="_blank" title="墨染一世">墨染一世</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：《唇唇欲动：影帝boss求轻缠》为作者墨染一世创作，作品唇唇欲动：影帝boss求轻缠章章动人，凤凰小</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/17_17188/" title="《绝代邪主》"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="《绝代邪主》"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">18</span>人阅读</div>
+						<div class="pt-name"><a href="/17_17188/" title="《绝代邪主》">《绝代邪主》</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%8D%97%E4%B8%BB%E7%BB%9D.html" target="_blank" title="南主绝">南主绝</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：《绝代邪主》为作者南主绝创作，作品绝代邪主章章动人，凤凰小说网为你第一时间提供南主绝精心编写原创绝代</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/17_17133/" title="《娇妻太萌：老公，别过来》"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="《娇妻太萌：老公，别过来》"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">24</span>人阅读</div>
+						<div class="pt-name"><a href="/17_17133/" title="《娇妻太萌：老公，别过来》">《娇妻太萌：老公，别过来》</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%B0%8F%E9%A6%A8%E5%A6%8D.html" target="_blank" title="小馨妍">小馨妍</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：《娇妻太萌：老公，别过来》为作者小馨妍创作，作品娇妻太萌：老公，别过来章章动人，凤凰小说网为你第一时</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/17_17192/" title="《红尘笑赤霄剑》"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/17/17192.jpg" alt="《红尘笑赤霄剑》"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">18</span>人阅读</div>
+						<div class="pt-name"><a href="/17_17192/" title="《红尘笑赤霄剑》">《红尘笑赤霄剑》</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E6%9C%88%E4%B8%8B%E7%8B%AC%E7%AB%B9.html" target="_blank" title="月下独竹">月下独竹</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：《红尘笑赤霄剑》为作者月下独竹创作，作品红尘笑赤霄剑章章动人，凤凰小说网为你第一时间提供月下独竹精心</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/18_18308/" title="《撞鬼就超神》"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/18/18308.jpg" alt="《撞鬼就超神》"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">18</span>人阅读</div>
+						<div class="pt-name"><a href="/18_18308/" title="《撞鬼就超神》">《撞鬼就超神》</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%B7%A6%E6%96%AD%E6%89%8B.html" target="_blank" title="左断手">左断手</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：《撞鬼就超神》为作者左断手创作，作品撞鬼就超神章章动人，凤凰小说网为你第一时间提供左断手精心编写原创</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/18_18294/" title="《总裁不好惹：甜妻，不要逃！》"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/18/18294.jpg" alt="《总裁不好惹：甜妻，不要逃！》"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">11</span>人阅读</div>
+						<div class="pt-name"><a href="/18_18294/" title="《总裁不好惹：甜妻，不要逃！》">《总裁不好惹：甜妻，不要逃！》</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E6%A2%A6%E6%B8%85%E6%B8%85.html" target="_blank" title="梦清清">梦清清</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：《总裁不好惹：甜妻，不要逃！》为作者梦清清创作，作品总裁不好惹：甜妻，不要逃！章章动人，凤凰小说网为</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/18_18293/" title="《重生娱乐圈：霸道影帝的强势宠爱》"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/18/18293.jpg" alt="《重生娱乐圈：霸道影帝的强势宠爱》"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">22</span>人阅读</div>
+						<div class="pt-name"><a href="/18_18293/" title="《重生娱乐圈：霸道影帝的强势宠爱》">《重生娱乐圈：霸道影帝的强势宠爱》</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E8%BD%A6%E9%AA%91%E8%BD%A9.html" target="_blank" title="车骑轩">车骑轩</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：《重生娱乐圈：霸道影帝的强势宠爱》为作者车骑轩创作，作品重生娱乐圈：霸道影帝的强势宠爱章章动人，凤凰</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/18_18292/" title="《影帝是女生：苏爷，坏透了！》"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/18/18292.jpg" alt="《影帝是女生：苏爷，坏透了！》"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">15</span>人阅读</div>
+						<div class="pt-name"><a href="/18_18292/" title="《影帝是女生：苏爷，坏透了！》">《影帝是女生：苏爷，坏透了！》</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E9%A1%BE%E8%A5%BF%E6%9D%A5.html" target="_blank" title="顾西来">顾西来</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：《影帝是女生：苏爷，坏透了！》为作者顾西来创作，作品影帝是女生：苏爷，坏透了！章章动人，凤凰小说网为</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/18_18291/" title="《诱撩甜妻：总裁强势宠》"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/18/18291.jpg" alt="《诱撩甜妻：总裁强势宠》"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">14</span>人阅读</div>
+						<div class="pt-name"><a href="/18_18291/" title="《诱撩甜妻：总裁强势宠》">《诱撩甜妻：总裁强势宠》</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E9%80%81%E7%9A%84%E5%8F%91%E5%B8%A6.html" target="_blank" title="送的发带">送的发带</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：《诱撩甜妻：总裁强势宠》为作者送的发带创作，作品诱撩甜妻：总裁强势宠章章动人，凤凰小说网为你第一时间</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/18_18289/" title="《高冷总裁的小娇妻》"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="《高冷总裁的小娇妻》"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">16</span>人阅读</div>
+						<div class="pt-name"><a href="/18_18289/" title="《高冷总裁的小娇妻》">《高冷总裁的小娇妻》</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E6%85%95%E8%89%BE.html" target="_blank" title="慕艾">慕艾</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：《高冷总裁的小娇妻》为作者慕艾创作，作品高冷总裁的小娇妻章章动人，凤凰小说网为你第一时间提供慕艾精心</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/18_18287/" title="《重生之萌娘军嫂》"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/18/18287.jpg" alt="《重生之萌娘军嫂》"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">14</span>人阅读</div>
+						<div class="pt-name"><a href="/18_18287/" title="《重生之萌娘军嫂》">《重生之萌娘军嫂》</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E6%9C%B5%E9%A2%9C%E6%B6%AF.html" target="_blank" title="朵颜涯">朵颜涯</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：《重生之萌娘军嫂》为作者朵颜涯创作，作品重生之萌娘军嫂章章动人，凤凰小说网为你第一时间提供朵颜涯精心</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/18_18284/" title="《我在地府做微商》"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/18/18284.jpg" alt="《我在地府做微商》"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">26</span>人阅读</div>
+						<div class="pt-name"><a href="/18_18284/" title="《我在地府做微商》">《我在地府做微商》</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E6%96%87%E5%A4%A7%E7%B1%B3.html" target="_blank" title="文大米">文大米</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：《我在地府做微商》为作者文大米创作，作品我在地府做微商章章动人，凤凰小说网为你第一时间提供文大米精心</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/18_18265/" title="世逐"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/18/18265.jpg" alt="世逐"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">25</span>人阅读</div>
+						<div class="pt-name"><a href="/18_18265/" title="世逐">世逐</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E7%BA%AF%E7%B2%B9%E8%B7%AF%E8%BF%87.html" target="_blank" title="纯粹路过">纯粹路过</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：header</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/18_18264/" title="问道之逆天改命"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/18/18264.jpg" alt="问道之逆天改命"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">14</span>人阅读</div>
+						<div class="pt-name"><a href="/18_18264/" title="问道之逆天改命">问道之逆天改命</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E6%97%A0%E7%97%95%E5%B0%91.html" target="_blank" title="无痕少">无痕少</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：一个一出生便夭折的男孩，却在几个呼吸之后重新有了气息，更是能说会走；面对一个陌生的环境，一个自称是自</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/18_18263/" title="[古穿今]娇娇女"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/18/18263.jpg" alt="[古穿今]娇娇女"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">34</span>人阅读</div>
+						<div class="pt-name"><a href="/18_18263/" title="[古穿今]娇娇女">[古穿今]娇娇女</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%AD%90%E4%B9%A6%E8%88%92.html" target="_blank" title="子书舒">子书舒</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：顾明达:“爸爸，我满20周岁了，可以嫁人了吗？”顾炎﹕“小宝贝，你得过了30岁生日，才能嫁人。”顾明</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/18_18260/" title="绝代神王"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/18/18260.jpg" alt="绝代神王"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">11</span>人阅读</div>
+						<div class="pt-name"><a href="/18_18260/" title="绝代神王">绝代神王</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%8D%83%E5%A2%A8%E8%AF%AD.html" target="_blank" title="千墨语">千墨语</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：绝代神王是由作者千墨语创作的玄幻小说，欢迎您来本站阅读绝代神王</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/19_19478/" title="《穿越秦国一小兵》"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/19/19478.jpg" alt="《穿越秦国一小兵》"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">15</span>人阅读</div>
+						<div class="pt-name"><a href="/19_19478/" title="《穿越秦国一小兵》">《穿越秦国一小兵》</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E6%88%91%E6%9C%AC%E9%A3%98%E9%9B%B6.html" target="_blank" title="我本飘零">我本飘零</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：《穿越秦国一小兵》为作者我本飘零创作，作品穿越秦国一小兵章章动人，凤凰小说网为你第一时间提供我本飘零</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/18_18262/" title="死神的祭祀"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/18/18262.jpg" alt="死神的祭祀"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">4</span>人阅读</div>
+						<div class="pt-name"><a href="/18_18262/" title="死神的祭祀">死神的祭祀</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E6%B5%85%E5%A4%8F%E9%99%8C%E5%86%B0.html" target="_blank" title="浅夏陌冰">浅夏陌冰</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：她们曾经拥有快乐的家庭、曾经拥有疼爱她们的父母、曾经是个快乐的小公主，但那都只是曾经。现在的她们有着</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/18_18259/" title="谁动了我的金爪子[娱乐圈]"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/18/18259.jpg" alt="谁动了我的金爪子[娱乐圈]"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">11</span>人阅读</div>
+						<div class="pt-name"><a href="/18_18259/" title="谁动了我的金爪子[娱乐圈]">谁动了我的金爪子[娱乐圈]</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%B1%B1%E6%B5%B7%E5%8D%81%E5%85%AB.html" target="_blank" title="山海十八">山海十八</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：【入文将于11月24日入V，当日更一万字，谢谢亲们的支持(づ￣3￣)づ朱鑫，五行缺钱，原籍人类，被天</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/17_17064/" title="《总裁大人来罩我》"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="《总裁大人来罩我》"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">8</span>人阅读</div>
+						<div class="pt-name"><a href="/17_17064/" title="《总裁大人来罩我》">《总裁大人来罩我》</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E7%83%9F%E7%81%AB.html" target="_blank" title="烟火">烟火</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：《总裁大人来罩我》为作者烟火创作，作品总裁大人来罩我章章动人，凤凰小说网为你第一时间提供烟火精心编写</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/17_17187/" title="《星王归来》"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/17/17187.jpg" alt="《星王归来》"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">6</span>人阅读</div>
+						<div class="pt-name"><a href="/17_17187/" title="《星王归来》">《星王归来》</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E9%A3%8E%E5%90%9F%E6%B0%B4%E8%AF%AD.html" target="_blank" title="风吟水语">风吟水语</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：《星王归来》为作者风吟水语创作，作品星王归来章章动人，凤凰小说网为你第一时间提供风吟水语精心编写原创</div>
+					</div>
+				</li>			</ul>
+		</div>
+		<div class="ptm-card-footer" id="pages">
+			<ul><li class="current"><a href="/xuanhuan/" target="_self">1</a></li><li><a href="/xuanhuan/page_2.html" target="_self">2</a></li><li><a href="/xuanhuan/page_3.html" target="_self">3</a></li><li><a href="/xuanhuan/page_4.html" target="_self">4</a></li><li><a href="/xuanhuan/page_5.html" target="_self">5</a></li><li><a href="/xuanhuan/page_2.html" target="_self">下一页 &raquo;</a></ul>		</div>	</div>
+	</section>
+<div class="ptm-line-x"></div>
+<div class="footer">
+	<p>本站系基于互联网搜索引擎技术为您提供信息检索服务。</p>
+	<p>Copyright ©2017 <div style="display:none"><script src="https://s5.cnzz.com/z_stat.php?id=1275484593&web_id=1275484593" language="JavaScript"></script></div>
+
+</p>
+</div>
+<section class="ptm-bar ptm-fix ptm-search">
+	<div class="searchbox ptm-clearfix">
+		<form action="/home/search" name="searchbtm" method="post">
+			<input type="hidden" name="action" value="search">
+			<input name="q" placeholder="请输入小说名或作者名，勿错字" type="text" class="searchinput" required><button class="searchbtn ptm-btn-primary" type="submit">搜索</button>
+		</form>	</div>
+</section>
+<script type="text/javascript" src="/Public/wap/js/zepto.min.js"></script>
+<script type="text/javascript" src="/Public/wap/js/base.js?v6.14"></script>
+<script type="text/javascript" src="/Public/trans.js?v6.14"></script>
+<script src="//cdn.bootcss.com/jquery/2.2.1/jquery.min.js"></script>
+<script src="//cdn.bootcss.com/jquery_lazyload/1.9.7/jquery.lazyload.min.js"></script>
+<script>
+$(function() {
+	jQuery('[rel-class=lazyload]').lazyload({effect: "fadeIn"});
+});
+</script><div style="display:none"><script src="https://s5.cnzz.com/z_stat.php?id=1275484593&web_id=1275484593" language="JavaScript"></script></div>
+</body>
+</html>

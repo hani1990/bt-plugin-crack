@@ -1,0 +1,717 @@
+﻿<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,width=device-width,initial-scale=1.0" />
+	<title>排行榜_蚂蚁追书</title>
+	<meta name="keywords" content="排行榜蚂蚁追书">
+	<meta name="description" content="排行榜蚂蚁追书">
+	<link rel="stylesheet" type="text/css" href="/Public/wap/css/ptm.min.css?v6.14" />
+	<link rel="stylesheet" type="text/css" href="/Public/wap/css/skin.min.css" />
+	<link rel="stylesheet" type="text/css" href="/Public/wap/css/font-awesome.min.css" />
+</head>
+<body>
+<header class="ptm-bar ptm-bar-nav">
+	<a class="ptm-pull-left" href="/">
+		<span class="ptm-iconfont fa fa-home"></span>
+	</a>
+	<div class="ptm-title">蚂蚁追书</div>
+	<a class="ptm-pull-right" href="javascript:;">
+		<span class="ptm-iconfont fa fa-search"></span>
+	</a>
+	<div class="back_r"><a id="translatelink" style="color:red;" href="javascript:translatePage();" title="点击[繁/简]切换">繁体版</a></div>
+</header>
+<section class="ptm-content">
+	<div class="ptm-tab">
+	<ul class="ptm-tab-nav">
+		<li ><a href="http://m.myzhuishu.com/">首页</a></li>
+		<li class="nav-sort "><a href="/xiaoshuodaquan">分类</a></li>
+		<li class="active"><a href="/paihangbang/">排行</a></li>
+		<li ><a href="/home/search">搜索</a></li>
+		<li ><a href="/home/index/bookcase">书架</a></li>
+	</ul>
+</div>
+	<div class="ptm-tab ptm-tab-sm mt15" style="padding:0 10px;">
+		<ul class="ptm-tab-nav ptm-tab-border">
+			<li class="active">周人气</li>
+			<li>月人气</li>
+			<li>总人气</li>
+		</ul>
+	</div>
+	<div class="ptm-tab-content-item active mt15">
+		<div class="ptm-tab-content">
+			<div class="ptm-card">
+				<div class="ptm-card-content">
+					<ul class="pt-card pt-card-4">
+																<li>
+							<div class="pt-icon">
+								<i class="start">1</i>
+							</div>
+							<div class="pt-cover">
+								<a href="/14_14177/" title="《高冷老公，宠到底！》"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="《高冷老公，宠到底！》" /></a>
+							</div>
+							<div class="pt-novel">
+								<div class="pt-num ptm-pull-right"><span class="ptm-text-warning">7069</span></div>
+								<div class="pt-name"><a href="/14_14177/" title="《高冷老公，宠到底！》">《高冷老公，宠到底！》</a></div>
+								<div class="pt-desc ptm-text-cut"><a href="/14_14177/">《高冷老公，宠到底！》为作者风乱枫创作，作品高冷</a></div>
+							</div>
+						</li>						<li>
+							<div class="pt-icon">
+								<i class="start">2</i>
+							</div>
+							<div class="pt-cover">
+								<a href="/14_14102/" title="末世钢铁车队"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/14/14102.jpg" alt="末世钢铁车队" /></a>
+							</div>
+							<div class="pt-novel">
+								<div class="pt-num ptm-pull-right"><span class="ptm-text-warning">6689</span></div>
+								<div class="pt-name"><a href="/14_14102/" title="末世钢铁车队">末世钢铁车队</a></div>
+								<div class="pt-desc ptm-text-cut"><a href="/14_14102/">陈垣死后重生回大灾变当天，18年的末世历练，让他</a></div>
+							</div>
+						</li>						<li>
+							<div class="pt-icon">
+								<i class="start">3</i>
+							</div>
+							<div class="pt-cover">
+								<a href="/14_14101/" title="末世之深渊召唤师"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="末世之深渊召唤师" /></a>
+							</div>
+							<div class="pt-novel">
+								<div class="pt-num ptm-pull-right"><span class="ptm-text-warning">6581</span></div>
+								<div class="pt-name"><a href="/14_14101/" title="末世之深渊召唤师">末世之深渊召唤师</a></div>
+								<div class="pt-desc ptm-text-cut"><a href="/14_14101/">深渊。这是这片土地的名字。无限层面的无底深渊。这</a></div>
+							</div>
+						</li>						<li>
+							<div class="pt-icon">
+								<i class="start">4</i>
+							</div>
+							<div class="pt-cover">
+								<a href="/16_16214/" title="《剑道毒尊》"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/16/16214.jpg" alt="《剑道毒尊》" /></a>
+							</div>
+							<div class="pt-novel">
+								<div class="pt-num ptm-pull-right"><span class="ptm-text-warning">5704</span></div>
+								<div class="pt-name"><a href="/16_16214/" title="《剑道毒尊》">《剑道毒尊》</a></div>
+								<div class="pt-desc ptm-text-cut"><a href="/16_16214/">《剑道毒尊》为作者香辣鱿鱼干创作，作品剑道毒尊章</a></div>
+							</div>
+						</li>						<li>
+							<div class="pt-icon">
+								<i class="start">5</i>
+							</div>
+							<div class="pt-cover">
+								<a href="/5_5046/" title="独家小甜心：恶魔，要抱抱"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="独家小甜心：恶魔，要抱抱" /></a>
+							</div>
+							<div class="pt-novel">
+								<div class="pt-num ptm-pull-right"><span class="ptm-text-warning">5385</span></div>
+								<div class="pt-name"><a href="/5_5046/" title="独家小甜心：恶魔，要抱抱">独家小甜心：恶魔，要抱抱</a></div>
+								<div class="pt-desc ptm-text-cut"><a href="/5_5046/">独家小甜心：恶魔，要抱抱</a></div>
+							</div>
+						</li>					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="ptm-tab-content-item mt15">
+		<div class="ptm-tab-content">
+			<div class="ptm-card">
+				<div class="ptm-card-content">
+					<ul class="pt-card pt-card-4">
+																<li>
+							<div class="pt-icon">
+								<i class="start">1</i>
+							</div>
+							<div class="pt-cover">
+								<a href="/10_10484/" title="超维术士"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/10/10484.jpg" alt="超维术士" /></a>
+							</div>
+							<div class="pt-novel">
+								<div class="pt-num ptm-pull-right"><span class="ptm-text-warning">15042</span></div>
+								<div class="pt-name"><a href="/10_10484/" title="超维术士">超维术士</a></div>
+								<div class="pt-desc ptm-text-cut"><a href="/10_10484/">两个不同宇宙文明的偶然接洽，造就了一位追求时空终</a></div>
+							</div>
+						</li>						<li>
+							<div class="pt-icon">
+								<i class="start">2</i>
+							</div>
+							<div class="pt-cover">
+								<a href="/5_5573/" title="超品医仙"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/5/5078/5078s.jpg" alt="超品医仙" /></a>
+							</div>
+							<div class="pt-novel">
+								<div class="pt-num ptm-pull-right"><span class="ptm-text-warning">12182</span></div>
+								<div class="pt-name"><a href="/5_5573/" title="超品医仙">超品医仙</a></div>
+								<div class="pt-desc ptm-text-cut"><a href="/5_5573/">我有透视就是强，穿透衣服看透墙，能辨鬼神断阴阳！</a></div>
+							</div>
+						</li>						<li>
+							<div class="pt-icon">
+								<i class="start">3</i>
+							</div>
+							<div class="pt-cover">
+								<a href="/12_12644/" title="女子监狱风云"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/1/1405/1405s.jpg" alt="女子监狱风云" /></a>
+							</div>
+							<div class="pt-novel">
+								<div class="pt-num ptm-pull-right"><span class="ptm-text-warning">10426</span></div>
+								<div class="pt-name"><a href="/12_12644/" title="女子监狱风云">女子监狱风云</a></div>
+								<div class="pt-desc ptm-text-cut"><a href="/12_12644/">在面试时，发现主考官竟是和自己有过关系的年轻女监</a></div>
+							</div>
+						</li>						<li>
+							<div class="pt-icon">
+								<i class="start">4</i>
+							</div>
+							<div class="pt-cover">
+								<a href="/6_6363/" title="余生漫漫皆为你"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/20/20086/20086s.jpg" alt="余生漫漫皆为你" /></a>
+							</div>
+							<div class="pt-novel">
+								<div class="pt-num ptm-pull-right"><span class="ptm-text-warning">8496</span></div>
+								<div class="pt-name"><a href="/6_6363/" title="余生漫漫皆为你">余生漫漫皆为你</a></div>
+								<div class="pt-desc ptm-text-cut"><a href="/6_6363/">余生漫漫皆为你</a></div>
+							</div>
+						</li>						<li>
+							<div class="pt-icon">
+								<i class="start">5</i>
+							</div>
+							<div class="pt-cover">
+								<a href="/6_6724/" title="封帝录"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="封帝录" /></a>
+							</div>
+							<div class="pt-novel">
+								<div class="pt-num ptm-pull-right"><span class="ptm-text-warning">8222</span></div>
+								<div class="pt-name"><a href="/6_6724/" title="封帝录">封帝录</a></div>
+								<div class="pt-desc ptm-text-cut"><a href="/6_6724/">一名被老神棍抚养长大的少年，一个从小混迹于黑道之</a></div>
+							</div>
+						</li>					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="ptm-tab-content-item mt15">
+		<div class="ptm-tab-content">
+			<div class="ptm-card">
+				<div class="ptm-card-content">
+					<ul class="pt-card pt-card-4">
+																<li>
+							<div class="pt-icon">
+								<i class="start">1</i>
+							</div>
+							<div class="pt-cover">
+								<a href="/10_10484/" title="超维术士"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/10/10484.jpg" alt="超维术士" /></a>
+							</div>
+							<div class="pt-novel">
+								<div class="pt-num ptm-pull-right"><span class="ptm-text-warning">15042</span></div>
+								<div class="pt-name"><a href="/10_10484/" title="超维术士">超维术士</a></div>
+								<div class="pt-desc ptm-text-cut"><a href="/10_10484/">两个不同宇宙文明的偶然接洽，造就了一位追求时空终</a></div>
+							</div>
+						</li>						<li>
+							<div class="pt-icon">
+								<i class="start">2</i>
+							</div>
+							<div class="pt-cover">
+								<a href="/5_5573/" title="超品医仙"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/5/5078/5078s.jpg" alt="超品医仙" /></a>
+							</div>
+							<div class="pt-novel">
+								<div class="pt-num ptm-pull-right"><span class="ptm-text-warning">14528</span></div>
+								<div class="pt-name"><a href="/5_5573/" title="超品医仙">超品医仙</a></div>
+								<div class="pt-desc ptm-text-cut"><a href="/5_5573/">我有透视就是强，穿透衣服看透墙，能辨鬼神断阴阳！</a></div>
+							</div>
+						</li>						<li>
+							<div class="pt-icon">
+								<i class="start">3</i>
+							</div>
+							<div class="pt-cover">
+								<a href="/5_5568/" title="千金归来：帝少，宠上天！"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/7/7392/7392s.jpg" alt="千金归来：帝少，宠上天！" /></a>
+							</div>
+							<div class="pt-novel">
+								<div class="pt-num ptm-pull-right"><span class="ptm-text-warning">12297</span></div>
+								<div class="pt-name"><a href="/5_5568/" title="千金归来：帝少，宠上天！">千金归来：帝少，宠上天！</a></div>
+								<div class="pt-desc ptm-text-cut"><a href="/5_5568/">为了救相依为命的哥哥，叶暖兮惹上一个陌生男人，五</a></div>
+							</div>
+						</li>						<li>
+							<div class="pt-icon">
+								<i class="start">4</i>
+							</div>
+							<div class="pt-cover">
+								<a href="/12_12644/" title="女子监狱风云"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/1/1405/1405s.jpg" alt="女子监狱风云" /></a>
+							</div>
+							<div class="pt-novel">
+								<div class="pt-num ptm-pull-right"><span class="ptm-text-warning">10426</span></div>
+								<div class="pt-name"><a href="/12_12644/" title="女子监狱风云">女子监狱风云</a></div>
+								<div class="pt-desc ptm-text-cut"><a href="/12_12644/">在面试时，发现主考官竟是和自己有过关系的年轻女监</a></div>
+							</div>
+						</li>						<li>
+							<div class="pt-icon">
+								<i class="start">5</i>
+							</div>
+							<div class="pt-cover">
+								<a href="/6_6363/" title="余生漫漫皆为你"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/20/20086/20086s.jpg" alt="余生漫漫皆为你" /></a>
+							</div>
+							<div class="pt-novel">
+								<div class="pt-num ptm-pull-right"><span class="ptm-text-warning">8496</span></div>
+								<div class="pt-name"><a href="/6_6363/" title="余生漫漫皆为你">余生漫漫皆为你</a></div>
+								<div class="pt-desc ptm-text-cut"><a href="/6_6363/">余生漫漫皆为你</a></div>
+							</div>
+						</li>					</ul>
+				</div>
+			</div>
+		</div>
+	</div>
+		<div class="ptm-card">
+		<div class="ptm-card-header ptm-clearfix">
+			<div class="ptm-pull-left">
+				热门小说榜
+			</div>
+			<div class="ptm-pull-right">
+				<a href="/xiaoshuodaquan">书库>></a>
+			</div>
+		</div>
+		<div class="ptm-card-content" style="padding:0">
+			<ul class="ptm-list-view ptm-grid-view pt-card-1">
+			<li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/10_10484/" title="超维术士"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/10/10484.jpg" alt="超维术士"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/10_10484/" title="超维术士">超维术士</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/5_5573/" title="超品医仙"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/5/5078/5078s.jpg" alt="超品医仙"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/5_5573/" title="超品医仙">超品医仙</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/12_12644/" title="女子监狱风云"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/1/1405/1405s.jpg" alt="女子监狱风云"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/12_12644/" title="女子监狱风云">女子监狱风云</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/6_6363/" title="余生漫漫皆为你"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/20/20086/20086s.jpg" alt="余生漫漫皆为你"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/6_6363/" title="余生漫漫皆为你">余生漫漫皆为你</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/6_6724/" title="封帝录"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="封帝录"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/6_6724/" title="封帝录">封帝录</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/10_10266/" title="六零俏军媳"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/10/10266.jpg" alt="六零俏军媳"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/10_10266/" title="六零俏军媳">六零俏军媳</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/10_10437/" title="困龙苍穹"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/1/1093/1093s.jpg" alt="困龙苍穹"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/10_10437/" title="困龙苍穹">困龙苍穹</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/10_10264/" title="黄金渔村"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/10/10264.jpg" alt="黄金渔村"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/10_10264/" title="黄金渔村">黄金渔村</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/6_6702/" title="《我的魔法时代》"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6702.jpg" alt="《我的魔法时代》"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/6_6702/" title="《我的魔法时代》">《我的魔法时代》</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/6_6701/" title="《星际金仙帝国》"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6701.jpg" alt="《星际金仙帝国》"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/6_6701/" title="《星际金仙帝国》">《星际金仙帝国》</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/6_6700/" title="《穿越喵》"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6700.jpg" alt="《穿越喵》"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/6_6700/" title="《穿越喵》">《穿越喵》</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/7_7376/" title="最强三界神话"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="最强三界神话"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/7_7376/" title="最强三界神话">最强三界神话</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/12_12649/" title="入骨暖婚"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/10/10577/10577s.jpg" alt="入骨暖婚"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/12_12649/" title="入骨暖婚">入骨暖婚</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/12_12630/" title="科技大仙宗"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/12/12630.jpg" alt="科技大仙宗"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/12_12630/" title="科技大仙宗">科技大仙宗</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/14_14102/" title="末世钢铁车队"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/14/14102.jpg" alt="末世钢铁车队"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/14_14102/" title="末世钢铁车队">末世钢铁车队</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/12_12662/" title="《司礼监》"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/12/12662.jpg" alt="《司礼监》"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/12_12662/" title="《司礼监》">《司礼监》</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/6_6357/" title="名门婚宠：晚安，郝太太"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/7/7283/7283s.jpg" alt="名门婚宠：晚安，郝太太"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/6_6357/" title="名门婚宠：晚安，郝太太">名门婚宠：晚安，郝太太</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/14_14101/" title="末世之深渊召唤师"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="末世之深渊召唤师"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/14_14101/" title="末世之深渊召唤师">末世之深渊召唤师</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/10_10434/" title="神级透视高手"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/0/764/764s.jpg" alt="神级透视高手"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/10_10434/" title="神级透视高手">神级透视高手</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/6_6782/" title="《真武狂龙》"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6782.jpg" alt="《真武狂龙》"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/6_6782/" title="《真武狂龙》">《真武狂龙》</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/10_10493/" title="一纸成婚：顾少宠妻成瘾"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/9/9104/9104s.jpg" alt="一纸成婚：顾少宠妻成瘾"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/10_10493/" title="一纸成婚：顾少宠妻成瘾">一纸成婚：顾少宠妻成瘾</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/6_6699/" title="《救世主都是美少女》"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6699.jpg" alt="《救世主都是美少女》"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/6_6699/" title="《救世主都是美少女》">《救世主都是美少女》</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/12_12650/" title="惹火娇妻，宠你上瘾"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/10/10749/10749s.jpg" alt="惹火娇妻，宠你上瘾"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/12_12650/" title="惹火娇妻，宠你上瘾">惹火娇妻，宠你上瘾</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/6_6692/" title="风铃怨系列一：怪校奇谈"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/0/980/980s.jpg" alt="风铃怨系列一：怪校奇谈"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/6_6692/" title="风铃怨系列一：怪校奇谈">风铃怨系列一：怪校奇谈</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/12_12633/" title="劈天斩神"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/12/12633.jpg" alt="劈天斩神"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/12_12633/" title="劈天斩神">劈天斩神</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/12_12642/" title="美眷娇妻：呆萌老公好幸福"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/5/5412/5412s.jpg" alt="美眷娇妻：呆萌老公好幸福"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/12_12642/" title="美眷娇妻：呆萌老公好幸福">美眷娇妻：呆萌老公好幸福</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/5_5551/" title="抽个美女打江山"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/5/5551.jpg" alt="抽个美女打江山"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/5_5551/" title="抽个美女打江山">抽个美女打江山</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/10_10265/" title="神医废柴妃：鬼王，别缠我"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/10/10265.jpg" alt="神医废柴妃：鬼王，别缠我"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/10_10265/" title="神医废柴妃：鬼王，别缠我">神医废柴妃：鬼王，别缠我</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/12_12629/" title="九天帝主"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/12/12629.jpg" alt="九天帝主"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/12_12629/" title="九天帝主">九天帝主</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/10_10491/" title="皇袍加身"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/1/1217/1217s.jpg" alt="皇袍加身"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/10_10491/" title="皇袍加身">皇袍加身</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/10_10191/" title="《快穿：女配闪开，原女主要逆袭》"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="《快穿：女配闪开，原女主要逆袭》"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/10_10191/" title="《快穿：女配闪开，原女主要逆袭》">《快穿：女配闪开，原女主要逆袭》</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/5_5354/" title="《荆楚帝国》"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/5/5354.jpg" alt="《荆楚帝国》"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/5_5354/" title="《荆楚帝国》">《荆楚帝国》</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/10_10245/" title="《超级金钱系统》"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/10/10245.jpg" alt="《超级金钱系统》"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/10_10245/" title="《超级金钱系统》">《超级金钱系统》</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/12_12648/" title="专属偏爱：冷少情定宝贝妻"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/6/6844/6844s.jpg" alt="专属偏爱：冷少情定宝贝妻"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/12_12648/" title="专属偏爱：冷少情定宝贝妻">专属偏爱：冷少情定宝贝妻</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/7_7374/" title="都市天龙至尊"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/7/7374.jpg" alt="都市天龙至尊"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/7_7374/" title="都市天龙至尊">都市天龙至尊</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/5_5674/" title="《强宠100天：攻略亿万首席》"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="《强宠100天：攻略亿万首席》"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/5_5674/" title="《强宠100天：攻略亿万首席》">《强宠100天：攻略亿万首席》</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/10_10485/" title="异界大领主"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/10/10485.jpg" alt="异界大领主"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/10_10485/" title="异界大领主">异界大领主</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/12_12643/" title="缠绵入骨:总裁好好爱"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/10/10576/10576s.jpg" alt="缠绵入骨:总裁好好爱"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/12_12643/" title="缠绵入骨:总裁好好爱">缠绵入骨:总裁好好爱</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/10_10492/" title="刀剑天帝"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/11/11079/11079s.jpg" alt="刀剑天帝"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/10_10492/" title="刀剑天帝">刀剑天帝</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/6_6721/" title="道岳独尊"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6721.jpg" alt="道岳独尊"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/6_6721/" title="道岳独尊">道岳独尊</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/12_12647/" title="帝姬传奇：华都幽梦"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/10/10440/10440s.jpg" alt="帝姬传奇：华都幽梦"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/12_12647/" title="帝姬传奇：华都幽梦">帝姬传奇：华都幽梦</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/5_5445/" title="第三帝国"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="第三帝国"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/5_5445/" title="第三帝国">第三帝国</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/10_10192/" title="暗黑破坏神之野蛮人小白"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="暗黑破坏神之野蛮人小白"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/10_10192/" title="暗黑破坏神之野蛮人小白">暗黑破坏神之野蛮人小白</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/14_14177/" title="《高冷老公，宠到底！》"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="《高冷老公，宠到底！》"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/14_14177/" title="《高冷老公，宠到底！》">《高冷老公，宠到底！》</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/5_5567/" title="逍遥九龙诀"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/11/11486/11486s.jpg" alt="逍遥九龙诀"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/5_5567/" title="逍遥九龙诀">逍遥九龙诀</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/10_10361/" title="《逆天小农民》"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="《逆天小农民》"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/10_10361/" title="《逆天小农民》">《逆天小农民》</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/10_10222/" title="天庭农庄"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/10/10222.jpg" alt="天庭农庄"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/10_10222/" title="天庭农庄">天庭农庄</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/6_6356/" title="空之梦幻想曲"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/5/5689/5689s.jpg" alt="空之梦幻想曲"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/6_6356/" title="空之梦幻想曲">空之梦幻想曲</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/5_5714/" title="《至尊重生》"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/5/5714.jpg" alt="《至尊重生》"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/5_5714/" title="《至尊重生》">《至尊重生》</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/10_10251/" title="《极品纨绔兵王》"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/10/10251.jpg" alt="《极品纨绔兵王》"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/10_10251/" title="《极品纨绔兵王》">《极品纨绔兵王》</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/2_2357/" title="荆楚帝国"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="荆楚帝国"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/2_2357/" title="荆楚帝国">荆楚帝国</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/12_12664/" title="《三国之烽烟万里》"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/12/12664.jpg" alt="《三国之烽烟万里》"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/12_12664/" title="《三国之烽烟万里》">《三国之烽烟万里》</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/10_10358/" title="《风筝与瞳孔》"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/10/10358.jpg" alt="《风筝与瞳孔》"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/10_10358/" title="《风筝与瞳孔》">《风筝与瞳孔》</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/10_10490/" title="侠武无敌"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="侠武无敌"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/10_10490/" title="侠武无敌">侠武无敌</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/12_12651/" title="二婚娇妻很抢手"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/14/14323/14323s.jpg" alt="二婚娇妻很抢手"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/12_12651/" title="二婚娇妻很抢手">二婚娇妻很抢手</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/6_6568/" title="《上门萌爸》"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6568.jpg" alt="《上门萌爸》"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/6_6568/" title="《上门萌爸》">《上门萌爸》</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/10_10489/" title="武神龙尊"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/10/10489.jpg" alt="武神龙尊"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/10_10489/" title="武神龙尊">武神龙尊</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/10_10243/" title="《炼血途》"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/10/10243.jpg" alt="《炼血途》"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/10_10243/" title="《炼血途》">《炼血途》</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/14_14048/" title="《高魔地球内》"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="《高魔地球内》"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/14_14048/" title="《高魔地球内》">《高魔地球内》</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/2_2870/" title="明末好女婿"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="明末好女婿"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/2_2870/" title="明末好女婿">明末好女婿</a></span>
+					</div>
+				</li>			</ul>
+		</div>
+	</div>
+	</section>
+<div class="ptm-line-x"></div>
+<div class="footer">
+	<p>本站系基于互联网搜索引擎技术为您提供信息检索服务。</p>
+	<p>Copyright ©2017 <div style="display:none"><script src="https://s5.cnzz.com/z_stat.php?id=1275484593&web_id=1275484593" language="JavaScript"></script></div>
+
+</p>
+</div>
+<section class="ptm-bar ptm-fix ptm-search">
+	<div class="searchbox ptm-clearfix">
+		<form action="/home/search" name="searchbtm" method="post">
+			<input type="hidden" name="action" value="search">
+			<input name="q" placeholder="请输入小说名或作者名，勿错字" type="text" class="searchinput" required><button class="searchbtn ptm-btn-primary" type="submit">搜索</button>
+		</form>	</div>
+</section>
+<script type="text/javascript" src="/Public/wap/js/zepto.min.js"></script>
+<script type="text/javascript" src="/Public/wap/js/base.js?v6.14"></script>
+<script type="text/javascript" src="/Public/trans.js?v6.14"></script>
+<script src="//cdn.bootcss.com/jquery/2.2.1/jquery.min.js"></script>
+<script src="//cdn.bootcss.com/jquery_lazyload/1.9.7/jquery.lazyload.min.js"></script>
+<script>
+$(function() {
+	jQuery('[rel-class=lazyload]').lazyload({effect: "fadeIn"});
+});
+</script><div style="display:none"><script src="https://s5.cnzz.com/z_stat.php?id=1275484593&web_id=1275484593" language="JavaScript"></script></div>
+<script type="text/javascript" src="/Public/wap/js/ptm.min.js"></script>
+<script>
+	$(function () {
+		$ptm.tab($('.ptm-tab-nav.ptm-tab-border li'), $('.ptm-tab-content-item'));
+	})
+</script>
+</body>
+</html>

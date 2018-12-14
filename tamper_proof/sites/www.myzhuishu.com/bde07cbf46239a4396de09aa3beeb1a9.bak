@@ -1,0 +1,435 @@
+﻿<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,width=device-width,initial-scale=1.0" />
+	<title>玄幻小说_蚂蚁追书</title>
+	<meta name="keywords" content="玄幻小说,蚂蚁追书,玄幻小说排行,玄幻小说在线阅读">
+	<meta name="description" content="蚂蚁追书为您提供玄幻小说在线阅读、无弹窗玄幻小说、玄幻小说txt下载，蚂蚁追书推荐您收藏本站。">
+	<link rel="stylesheet" type="text/css" href="/Public/wap/css/ptm.min.css?v6.14" />
+	<link rel="stylesheet" type="text/css" href="/Public/wap/css/skin.min.css" />
+	<link rel="stylesheet" type="text/css" href="/Public/wap/css/font-awesome.min.css" />
+</head>
+<body>
+<header class="ptm-bar ptm-bar-nav">
+	<a class="ptm-pull-left" href="/">
+		<span class="ptm-iconfont fa fa-home"></span>
+	</a>
+	<div class="ptm-title">蚂蚁追书</div>
+	<a class="ptm-pull-right" href="javascript:;">
+		<span class="ptm-iconfont fa fa-search"></span>
+	</a>
+	<div class="back_r"><a id="translatelink" style="color:red;" href="javascript:translatePage();" title="点击[繁/简]切换">繁体版</a></div>
+</header>
+<section class="ptm-content">
+	<div class="ptm-tab">
+	<ul class="ptm-tab-nav">
+		<li ><a href="http://m.myzhuishu.com/">首页</a></li>
+		<li class="nav-sort active"><a href="/xiaoshuodaquan">分类</a></li>
+		<li ><a href="/paihangbang/">排行</a></li>
+		<li ><a href="/home/search">搜索</a></li>
+		<li ><a href="/home/index/bookcase">书架</a></li>
+	</ul>
+</div>
+	<div class="categories ptm-clearfix">
+		<ul>
+			<li><a href="/xiaoshuodaquan">全部小说</a></li>
+			<li><a href="/xuanhuan/" class="current">玄幻小说</a></li><li><a href="/xiuzhen/" >修真小说</a></li><li><a href="/dushi/" >都市小说</a></li><li><a href="/lishi/" >历史小说</a></li><li><a href="/wangyou/" >网游小说</a></li><li><a href="/kehuan/" >科幻小说</a></li><li><a href="/nvpin/" >女频小说</a></li>		</ul>
+		<div class="c10"></div>
+	</div>
+	<div class="ptm-card">
+		<div class="ptm-card-header ptm-clearfix">
+			<div class="ptm-pull-left">
+				玄幻小说本月热门
+			</div>
+			<div class="ptm-pull-right">
+				<a href="/paihangbang/">更多>></a>
+			</div>
+		</div>
+		<div class="ptm-card-content" style="padding:0">
+			<ul class="ptm-list-view ptm-grid-view pt-card-1">
+				<li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/6_6702/" title="《我的魔法时代》"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6702.jpg" alt="《我的魔法时代》"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/6_6702/" title="《我的魔法时代》">《我的魔法时代》</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/6_6701/" title="《星际金仙帝国》"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6701.jpg" alt="《星际金仙帝国》"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/6_6701/" title="《星际金仙帝国》">《星际金仙帝国》</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/6_6700/" title="《穿越喵》"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6700.jpg" alt="《穿越喵》"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/6_6700/" title="《穿越喵》">《穿越喵》</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/6_6699/" title="《救世主都是美少女》"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6699.jpg" alt="《救世主都是美少女》"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/6_6699/" title="《救世主都是美少女》">《救世主都是美少女》</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/6_6724/" title="封帝录"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="封帝录"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/6_6724/" title="封帝录">封帝录</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/6_6721/" title="道岳独尊"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6721.jpg" alt="道岳独尊"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/6_6721/" title="道岳独尊">道岳独尊</a></span>
+					</div>
+				</li>			</ul>
+		</div>
+	</div>
+		<div class="ptm-card">
+		<div class="ptm-card-header ptm-clearfix">
+			<div class="ptm-pull-left">
+				玄幻小说小说大全
+			</div>
+			<div class="ptm-pull-right">
+				第8页
+			</div>
+		</div>
+		<div class="ptm-card-content">
+			<ul class="pt-card pt-card-7">
+				<li>
+					<div class="pt-cover">
+						<a href="/6_6640/" title="阅读封神系统"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6640.jpg" alt="阅读封神系统"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">10</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6640/" title="阅读封神系统">阅读封神系统</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E7%89%A7%E5%B7%B2.html" target="_blank" title="牧已">牧已</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：觉醒阅读成神系统，从此苏牧发现了阅读的好处。读斗破获得净莲妖火、读遮天获得先天圣体道胎、读洪荒获得无</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/6_6624/" title="九针神医"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6624.jpg" alt="九针神医"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">24</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6624/" title="九针神医">九针神医</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E9%92%93%E9%B1%BC1%E5%93%A5.html" target="_blank" title="钓鱼1哥">钓鱼1哥</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：凡欲为大医，必须谙《素问》、《甲乙》、《黄帝针经》、明堂流注、十二经脉、三部九候、五脏六腑、表里孔穴</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/6_6607/" title="神界潜规则"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6607.jpg" alt="神界潜规则"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">9</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6607/" title="神界潜规则">神界潜规则</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E7%9A%87%E4%B8%8A%E9%9D%92%E6%A5%BC.html" target="_blank" title="皇上青楼">皇上青楼</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：背负着沉重的期望，拥有神赐和真魔之血的少年毅然踏上了逆天改命的战场。诸天撕掉了那层神秘面纱，躯体里剩</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/6_6598/" title="七煞碑"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/12/12903/12903s.jpg" alt="七煞碑"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">23</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6598/" title="七煞碑">七煞碑</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E4%BD%9C%E8%80%85%EF%BC%9A%E6%B8%B8%E6%B3%B3%E7%9A%84%E7%8C%AB.html" target="_blank" title="作者：游泳的猫">作者：游泳的猫</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：神剑傲世，热血无双，谁敢与我一战？赵昀此生，拥佳人，继绝学，创剑道，活过，爱过，无悔矣！qq书友群：</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/6_6753/" title="一剑飞仙"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="一剑飞仙"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">38</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6753/" title="一剑飞仙">一剑飞仙</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E6%B5%81%E6%B5%AA%E7%9A%84%E8%9B%A4%E8%9F%86.html" target="_blank" title="流浪的蛤蟆">流浪的蛤蟆</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：千锤百炼烈火雷霆，十年换得一剑光寒。潜牙伏爪百般忍受，只为今朝一飞冲霄！</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/6_6722/" title="余生道"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="余生道"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">257</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6722/" title="余生道">余生道</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E7%AD%89%E7%96%AF%E8%B5%B7.html" target="_blank" title="等疯起">等疯起</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：余生心里默念：“变！”嗯？没反应？“我再变！”还是没反应？直到有一天，余生看着对面的魔影万千，用一副</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/6_6727/" title="都市最强杀戮仙帝"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="都市最强杀戮仙帝"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">2384</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6727/" title="都市最强杀戮仙帝">都市最强杀戮仙帝</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%90%A7%E5%94%A7%E5%8F%AD%E5%8F%BD.html" target="_blank" title="吧唧叭叽">吧唧叭叽</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：杀戮仙帝都市重生，修万古不灭金身诀，一拳碎金丹，爆元婴，破苍穹！斩万仙！杀戮纵横，只手遮天！&gt;</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/6_6756/" title="神雕后传之逆天记"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6756.jpg" alt="神雕后传之逆天记"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">40</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6756/" title="神雕后传之逆天记">神雕后传之逆天记</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E8%BE%B9%E7%BC%981102.html" target="_blank" title="边缘1102">边缘1102</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：上承神雕，下接倚天解开谜团，填补空白为你揭示一个真实的武林&gt;/p&lt;各位书友要是觉得《神雕</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/6_6752/" title="西游之我为牛蛮"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="西游之我为牛蛮"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">33</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6752/" title="西游之我为牛蛮">西游之我为牛蛮</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E6%BC%86%E9%BB%91%E8%A1%80%E6%B5%B7.html" target="_blank" title="漆黑血海">漆黑血海</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：一朝梦醒，牛蛮重生西游世界，成了牛魔王的远亲，一头杂血大背青牛，面对虎视眈眈的漫天神佛，牛蛮表示，我</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/7_7043/" title="科技炼器师"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/7/7043.jpg" alt="科技炼器师"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">24</span>人阅读</div>
+						<div class="pt-name"><a href="/7_7043/" title="科技炼器师">科技炼器师</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%A6%96%E5%AE%A3.html" target="_blank" title="妖宣">妖宣</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：这是一个带着科技之心拜入炼器门的地球穿越小子，他炼器不用锤，不烧火，却每每能成功。他创造的器物都稀奇</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/6_6716/" title="抗日战神之平原之鹰"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6716.jpg" alt="抗日战神之平原之鹰"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">31</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6716/" title="抗日战神之平原之鹰">抗日战神之平原之鹰</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%88%88%E9%BA%A6RS.html" target="_blank" title="刈麦RS">刈麦RS</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：抗日战神异空显身，烽火英豪乱世崛起。21世纪杀手之王鬼鹰逃避追杀途中，晴天一道闪电把他带入了昔日那段</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/6_6754/" title="拳破诸天万界"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="拳破诸天万界"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">17</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6754/" title="拳破诸天万界">拳破诸天万界</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E6%B0%B4%E7%89%9B%E7%9C%9F%E6%98%AF%E7%89%9B.html" target="_blank" title="水牛真是牛">水牛真是牛</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：李伯阳的脑海中能聆听到恒河沙数的世界中传来的心愿，接受心愿后就能降临这个世界。黄飞鸿世界中，他是推翻</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/6_6631/" title="至尊豪门之极品狂妻"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6631.jpg" alt="至尊豪门之极品狂妻"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">12</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6631/" title="至尊豪门之极品狂妻">至尊豪门之极品狂妻</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%8F%B6%E8%8B%92.html" target="_blank" title="叶苒">叶苒</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：倒霉催的!她就是在路上捡了个半死不活的男人回家，本想化身白衣天使，奈何却悲催羊入虎口，被扑倒吃抹干净</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/6_6630/" title="清末枭雄"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6630.jpg" alt="清末枭雄"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">7</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6630/" title="清末枭雄">清末枭雄</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%8E%86%E5%8F%B2%E5%86%9B%E4%BA%8B.html" target="_blank" title="历史军事">历史军事</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：咸丰年间，有着太平天国起义，有着第二次鸦片战争，无数的屈辱和荣耀同一时间里迸发了出来，这是一个让人激</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/6_6758/" title="妖师府"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6758.jpg" alt="妖师府"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">33</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6758/" title="妖师府">妖师府</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%A4%A7%E9%81%93%E6%97%A0%E5%9E%A0.html" target="_blank" title="大道无垠">大道无垠</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：我不是妖，更不是孽！我是一个人！妖师府..........即便是业火缠身，我也要引领我们妖师一脉重现</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/6_6599/" title="天元图录"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/1/1612/1612s.jpg" alt="天元图录"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">9</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6599/" title="天元图录">天元图录</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E4%BD%9C%E8%80%85%EF%BC%9A%E5%B0%8F%E5%87%A1%E7%82%B9.html" target="_blank" title="作者：小凡点">作者：小凡点</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：死而复生，不甘命运摆布；逐鹿天下，为生存而战！一部图录，道尽世间玄机！</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/6_6673/" title="《乡村透视神医(花都最强医圣)》"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="《乡村透视神医(花都最强医圣)》"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">10</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6673/" title="《乡村透视神医(花都最强医圣)》">《乡村透视神医(花都最强医圣)》</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%95%B5%E5%96%BD%E5%95%B5%E7%81%B5.html" target="_blank" title="啵喽啵灵">啵喽啵灵</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：《乡村透视神医(花都最强医圣)》为作者啵喽啵灵创作，作品乡村透视神医(花都最强医圣)章章动人，凤凰小</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/6_6660/" title="《天下珍藏》"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6660.jpg" alt="《天下珍藏》"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">31</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6660/" title="《天下珍藏》">《天下珍藏》</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E7%83%9B.html" target="_blank" title="烛">烛</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：《天下珍藏》为作者烛创作，作品天下珍藏章章动人，凤凰小说网为你第一时间提供烛精心编写原创天下珍藏及无</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/6_6751/" title="唯我剑主"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6751.jpg" alt="唯我剑主"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">23</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6751/" title="唯我剑主">唯我剑主</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E8%8F%8A%E5%B3%B6%E6%9B%B8%E7%94%9F.html" target="_blank" title="菊島書生">菊島書生</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：一万年前，寰宇动荡，天外魔域与聖創世界的中洲、東荒、南疆、西漠、北海五塊大陆碰撞...魔域、聖創两座</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/6_6668/" title="《恶魔驾到：甜心撩上瘾》"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6668.jpg" alt="《恶魔驾到：甜心撩上瘾》"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">50</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6668/" title="《恶魔驾到：甜心撩上瘾》">《恶魔驾到：甜心撩上瘾》</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E6%98%8E%E5%B0%8F%E6%9F%92.html" target="_blank" title="明小柒">明小柒</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：《恶魔驾到：甜心撩上瘾》为作者明小柒创作，作品恶魔驾到：甜心撩上瘾章章动人，凤凰小说网为你第一时间提</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/6_6649/" title="《山野学生》"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6649.jpg" alt="《山野学生》"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">46</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6649/" title="《山野学生》">《山野学生》</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E9%82%AA%E6%81%B6%E5%AD%90%E5%BC%B9.html" target="_blank" title="邪恶子弹">邪恶子弹</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：《山野学生》为作者邪恶子弹创作，作品山野学生章章动人，凤凰小说网为你第一时间提供邪恶子弹精心编写原创</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/6_6642/" title="映照万界"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6642.jpg" alt="映照万界"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">28</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6642/" title="映照万界">映照万界</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E4%BD%A0%E5%A5%BD%E5%86%8D%E8%A7%81%E8%A7%81.html" target="_blank" title="你好再见见">你好再见见</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：一方连接诸天的祭坛，一方宏大到不可想象的世界。是汲取诸天万界营养疯狂的成长，还是在这神魔显圣的世界彻</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/6_6702/" title="《我的魔法时代》"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6702.jpg" alt="《我的魔法时代》"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">7696</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6702/" title="《我的魔法时代》">《我的魔法时代》</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E6%B5%B7%E9%80%B8%E5%B0%8F%E7%8C%AA.html" target="_blank" title="海逸小猪">海逸小猪</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：《我的魔法时代》为作者海逸小猪创作，作品我的魔法时代章章动人，凤凰小说网为你第一时间提供海逸小猪精心</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/6_6749/" title="重生之都市霸主"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6749.jpg" alt="重生之都市霸主"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">26</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6749/" title="重生之都市霸主">重生之都市霸主</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%A4%9C%E5%90%BB.html" target="_blank" title="夜吻">夜吻</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：简介：少年古辰，华夏天朝一普通小子，因身怀绝世仙根，被某位游历寰宇的大能看中，带出地球养肥后，抽走仙</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/6_6759/" title="我真不是骗子"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6759.jpg" alt="我真不是骗子"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">13</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6759/" title="我真不是骗子">我真不是骗子</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E4%BA%BA%E6%B0%90%E8%A8%80%E5%91%A8.html" target="_blank" title="人氐言周">人氐言周</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：“兄弟，我看你面堂发黑，印堂发暗，不日定有血光之灾!”“胡说……”“咣”的一声，随着一块石头精确的投</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/6_6579/" title="悟空看私聊"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/10/10320/10320s.jpg" alt="悟空看私聊"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">10</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6579/" title="悟空看私聊">悟空看私聊</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E4%BD%9C%E8%80%85%EF%BC%9A%E6%9D%8E%E7%99%BD%E4%B8%8D%E7%99%BD.html" target="_blank" title="作者：李白不白">作者：李白不白</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：说起来你可能不信，郭大路的山寨手机被一道闪电劈中之后，微信好友里莫名其妙地多了一个名叫“孙悟空”的人</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/6_6760/" title="原女至尊"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6760.jpg" alt="原女至尊"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">26</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6760/" title="原女至尊">原女至尊</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%8D%97%E5%B1%B1%E5%AF%A8%E4%B8%BB.html" target="_blank" title="南山寨主">南山寨主</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：声明一下，这是正经仙侠文。伊戈说了一句“我要是绝世美女，一定抗日到底”，然后穿越到绝世美女伊歌体内。</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/6_6628/" title="斗天狂徒"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6628.jpg" alt="斗天狂徒"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">5</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6628/" title="斗天狂徒">斗天狂徒</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E7%96%AF%E5%84%BF.html" target="_blank" title="疯儿">疯儿</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：斗天狂徒是由作者疯儿创作的玄幻小说，欢迎您来本站阅读斗天狂徒</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/6_6645/" title="姐姐有妖气"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6645.jpg" alt="姐姐有妖气"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">18</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6645/" title="姐姐有妖气">姐姐有妖气</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%A5%88%E4%BD%95%E7%AC%91%E5%BF%98%E5%B7%9D.html" target="_blank" title="奈何笑忘川">奈何笑忘川</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：生日那天，张落羽睁开眼，天地元气便恢复了，世界改变了，过去的生活一去不复返了，真讨厌。可当一夜过去，</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/6_6633/" title="天地情缘之红线不好牵"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6633.jpg" alt="天地情缘之红线不好牵"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">179</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6633/" title="天地情缘之红线不好牵">天地情缘之红线不好牵</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%88%9D%E9%9B%AA%E9%81%A5%E6%A2%A6.html" target="_blank" title="初雪遥梦">初雪遥梦</a> | 分类：<a href="/xuanhuan/">玄幻小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：知道人类为什么需要爱情吗？——为了繁衍知道人类为什么喜欢权利、金钱、美色吗？——为了更好繁衍知道仙风</div>
+					</div>
+				</li>			</ul>
+		</div>
+		<div class="ptm-card-footer" id="pages">
+			<ul><li><a href="/xuanhuan/page_7.html" target="_self">&laquo; 上一页</a><li><a href="/xuanhuan/page_6.html" target="_self">6</a></li><li><a href="/xuanhuan/page_7.html" target="_self">7</a></li><li class="current"><a href="/xuanhuan/page_8.html" target="_self">8</a></li><li><a href="/xuanhuan/page_9.html" target="_self">9</a></li><li><a href="/xuanhuan/page_10.html" target="_self">10</a></li><li><a href="/xuanhuan/page_9.html" target="_self">下一页 &raquo;</a></ul>		</div>	</div>
+	</section>
+<div class="ptm-line-x"></div>
+<div class="footer">
+	<p>本站系基于互联网搜索引擎技术为您提供信息检索服务。</p>
+	<p>Copyright ©2017 <div style="display:none"><script src="https://s5.cnzz.com/z_stat.php?id=1275484593&web_id=1275484593" language="JavaScript"></script></div></p>
+</div>
+<section class="ptm-bar ptm-fix ptm-search">
+	<div class="searchbox ptm-clearfix">
+		<form action="/home/search" name="searchbtm" method="post">
+			<input type="hidden" name="action" value="search">
+			<input name="q" placeholder="请输入小说名或作者名，勿错字" type="text" class="searchinput" required><button class="searchbtn ptm-btn-primary" type="submit">搜索</button>
+		</form>	</div>
+</section>
+<script type="text/javascript" src="/Public/wap/js/zepto.min.js"></script>
+<script type="text/javascript" src="/Public/wap/js/base.js?v6.14"></script>
+<script type="text/javascript" src="/Public/trans.js?v6.14"></script>
+<script src="//cdn.bootcss.com/jquery/2.2.1/jquery.min.js"></script>
+<script src="//cdn.bootcss.com/jquery_lazyload/1.9.7/jquery.lazyload.min.js"></script>
+<script>
+$(function() {
+	jQuery('[rel-class=lazyload]').lazyload({effect: "fadeIn"});
+});
+</script><div style="display:none"><script src="https://s5.cnzz.com/z_stat.php?id=1275484593&web_id=1275484593" language="JavaScript"></script></div>
+</body>
+</html>

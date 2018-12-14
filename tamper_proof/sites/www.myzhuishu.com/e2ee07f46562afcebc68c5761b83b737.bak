@@ -1,0 +1,523 @@
+<!doctype html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="Cache-Control" content="no-siteapp" />
+	<meta http-equiv="Cache-Control" content="no-transform" />
+	<title>排行榜_蚂蚁追书</title>
+	<meta name="keywords" content="排行榜蚂蚁追书" />
+	<meta name="description" content="排行榜蚂蚁追书" />
+	<link rel="canonical" href="http://myzhuishu.com/"/>
+	<meta name="applicable-device" content="pc">
+	<meta http-equiv="mobile-agent" content="format=html5; url=http://m.myzhuishu.com/">
+	<link rel="stylesheet" href="/Public/biquge/css/style.css?v6.14" />
+	<script src="//cdn.bootcss.com/jquery/2.1.4/jquery.min.js"></script>
+	<script type="text/javascript" src="/Public/biquge/js/header.js?v6.14"></script>
+	<script>var znsid = '';</script>
+</head>
+<body>
+<div id="wrapper">
+	<script>login();</script>
+<div class="header">
+	<div class="header_logo">
+		<a href="http://myzhuishu.com/" title="蚂蚁追书">蚂蚁追书</a>
+	</div>
+	<script>panel();</script>
+</div>
+<div class="nav">
+	<ul>
+		<li><a href="http://myzhuishu.com/" title="蚂蚁追书">蚂蚁追书</a></li>
+		<li><a href="/home/index/bookcase">临时书架</a></li>
+		<li><a href="/xuanhuan/">玄幻小说</a></li><li><a href="/xiuzhen/">修真小说</a></li><li><a href="/dushi/">都市小说</a></li><li><a href="/lishi/">历史小说</a></li><li><a href="/wangyou/">网游小说</a></li><li><a href="/kehuan/">科幻小说</a></li><li><a href="/nvpin/">女频小说</a></li>		<li><a href="/xiaoshuodaquan">小说书库</a></li>
+		<li><a href="/paihangbang/">排行榜单</a></li>
+	</ul>
+</div>
+	<div id="main">
+		<div id="hotcontent">
+			<div class="lll">
+				<h2>蚂蚁追书小说周榜</h2>
+				<ul>
+				<li class="item-cover">
+					<a href="/14_14177/" title="《高冷老公，宠到底！》">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="《高冷老公，宠到底！》" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>《高冷老公，宠到底！》</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/14_14102/" title="末世钢铁车队">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/14/14102.jpg" alt="末世钢铁车队" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>末世钢铁车队</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/14_14101/" title="末世之深渊召唤师">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="末世之深渊召唤师" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>末世之深渊召唤师</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/16_16214/" title="《剑道毒尊》">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/16/16214.jpg" alt="《剑道毒尊》" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>《剑道毒尊》</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/5_5046/" title="独家小甜心：恶魔，要抱抱">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="独家小甜心：恶魔，要抱抱" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>独家小甜心：恶魔，要抱抱</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/14_14190/" title="禁爱暴君：皇后有令，皇上侍寝">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/3/3307/3307s.jpg" alt="禁爱暴君：皇后有令，皇上侍寝" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>禁爱暴君：皇后有令，皇上侍寝</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/9_9804/" title="女总裁的贴身特种兵">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/2/2791/2791s.jpg" alt="女总裁的贴身特种兵" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>女总裁的贴身特种兵</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/16_16215/" title="《伊森的奇幻漂流》">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/16/16215.jpg" alt="《伊森的奇幻漂流》" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>《伊森的奇幻漂流》</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/14_14195/" title="绝境中的第三帝国">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/6/6667/6667s.jpg" alt="绝境中的第三帝国" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>绝境中的第三帝国</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/16_16212/" title="《武神龙尊》">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/16/16212.jpg" alt="《武神龙尊》" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>《武神龙尊》</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/14_14168/" title="《美颜圣经》">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/14/14168.jpg" alt="《美颜圣经》" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>《美颜圣经》</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/10_10484/" title="超维术士">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/10/10484.jpg" alt="超维术士" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>超维术士</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/14_14100/" title="狼王的娇宠">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/14/14100.jpg" alt="狼王的娇宠" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>狼王的娇宠</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/16_16211/" title="《万古魂帝》">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/16/16211.jpg" alt="《万古魂帝》" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>《万古魂帝》</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/14_14099/" title="单挑王">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/14/14099.jpg" alt="单挑王" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>单挑王</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/14_14180/" title="战武当">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="战武当" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>战武当</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/14_14193/" title="公子九">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/6/6813/6813s.jpg" alt="公子九" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>公子九</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/14_14181/" title="剑来">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.cangqionglongqi.com/image/8/8147/8147s.jpg" alt="剑来" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>剑来</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/14_14191/" title="水浒之宋末霸主">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/9/9468/9468s.jpg" alt="水浒之宋末霸主" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>水浒之宋末霸主</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/14_14198/" title="重生种田之狼夫悠然来">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/6/6223/6223s.jpg" alt="重生种田之狼夫悠然来" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>重生种田之狼夫悠然来</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/14_14178/" title="《西游百妖帐》">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/14/14178.jpg" alt="《西游百妖帐》" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>《西游百妖帐》</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/14_14194/" title="三国经销商">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/5/5115/5115s.jpg" alt="三国经销商" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>三国经销商</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/14_14175/" title="《一世书香》">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/14/14175.jpg" alt="《一世书香》" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>《一世书香》</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/14_14171/" title="《一宠天下之凤女轻狂》">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/14/14171.jpg" alt="《一宠天下之凤女轻狂》" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>《一宠天下之凤女轻狂》</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/16_16240/" title="《超级主播打赏系统》">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/16/16240.jpg" alt="《超级主播打赏系统》" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>《超级主播打赏系统》</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/14_14201/" title="传奇战神">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/21/21164/21164s.jpg" alt="传奇战神" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>传奇战神</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/14_14098/" title="绝世兵王">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="绝世兵王" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>绝世兵王</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/14_14176/" title="《冷宫代孕妃：妈咪逆袭战》">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="《冷宫代孕妃：妈咪逆袭战》" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>《冷宫代孕妃：妈咪逆袭战》</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/14_14170/" title="《盛宠天下：一品不良妃》">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/14/14170.jpg" alt="《盛宠天下：一品不良妃》" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>《盛宠天下：一品不良妃》</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/16_16213/" title="《神剑尊主》">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/16/16213.jpg" alt="《神剑尊主》" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>《神剑尊主》</h3>
+					</a>
+				</li>				</ul>
+			</div>
+		</div>
+				<div id="hotcontent">
+			<div class="lll">
+				<h2>蚂蚁追书小说月榜</h2>
+				<ul>
+				<li class="item-cover">
+					<a href="/10_10484/" title="超维术士">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/10/10484.jpg" alt="超维术士" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>超维术士</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/5_5573/" title="超品医仙">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/5/5078/5078s.jpg" alt="超品医仙" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>超品医仙</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/12_12644/" title="女子监狱风云">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/1/1405/1405s.jpg" alt="女子监狱风云" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>女子监狱风云</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/6_6363/" title="余生漫漫皆为你">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/20/20086/20086s.jpg" alt="余生漫漫皆为你" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>余生漫漫皆为你</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/6_6724/" title="封帝录">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="封帝录" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>封帝录</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/10_10266/" title="六零俏军媳">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/10/10266.jpg" alt="六零俏军媳" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>六零俏军媳</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/10_10437/" title="困龙苍穹">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/1/1093/1093s.jpg" alt="困龙苍穹" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>困龙苍穹</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/10_10264/" title="黄金渔村">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/10/10264.jpg" alt="黄金渔村" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>黄金渔村</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/6_6702/" title="《我的魔法时代》">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6702.jpg" alt="《我的魔法时代》" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>《我的魔法时代》</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/6_6701/" title="《星际金仙帝国》">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6701.jpg" alt="《星际金仙帝国》" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>《星际金仙帝国》</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/12_12633/" title="劈天斩神">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/12/12633.jpg" alt="劈天斩神" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>劈天斩神</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/14_14177/" title="《高冷老公，宠到底！》">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="《高冷老公，宠到底！》" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>《高冷老公，宠到底！》</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/6_6700/" title="《穿越喵》">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6700.jpg" alt="《穿越喵》" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>《穿越喵》</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/14_14102/" title="末世钢铁车队">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/14/14102.jpg" alt="末世钢铁车队" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>末世钢铁车队</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/12_12630/" title="科技大仙宗">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/12/12630.jpg" alt="科技大仙宗" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>科技大仙宗</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/7_7376/" title="最强三界神话">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="最强三界神话" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>最强三界神话</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/12_12649/" title="入骨暖婚">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/10/10577/10577s.jpg" alt="入骨暖婚" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>入骨暖婚</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/14_14101/" title="末世之深渊召唤师">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="末世之深渊召唤师" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>末世之深渊召唤师</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/12_12662/" title="《司礼监》">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/12/12662.jpg" alt="《司礼监》" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>《司礼监》</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/6_6357/" title="名门婚宠：晚安，郝太太">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/7/7283/7283s.jpg" alt="名门婚宠：晚安，郝太太" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>名门婚宠：晚安，郝太太</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/10_10434/" title="神级透视高手">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/0/764/764s.jpg" alt="神级透视高手" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>神级透视高手</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/6_6782/" title="《真武狂龙》">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6782.jpg" alt="《真武狂龙》" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>《真武狂龙》</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/10_10493/" title="一纸成婚：顾少宠妻成瘾">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/9/9104/9104s.jpg" alt="一纸成婚：顾少宠妻成瘾" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>一纸成婚：顾少宠妻成瘾</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/6_6699/" title="《救世主都是美少女》">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6699.jpg" alt="《救世主都是美少女》" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>《救世主都是美少女》</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/12_12650/" title="惹火娇妻，宠你上瘾">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/10/10749/10749s.jpg" alt="惹火娇妻，宠你上瘾" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>惹火娇妻，宠你上瘾</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/6_6692/" title="风铃怨系列一：怪校奇谈">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/0/980/980s.jpg" alt="风铃怨系列一：怪校奇谈" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>风铃怨系列一：怪校奇谈</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/12_12642/" title="美眷娇妻：呆萌老公好幸福">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/5/5412/5412s.jpg" alt="美眷娇妻：呆萌老公好幸福" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>美眷娇妻：呆萌老公好幸福</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/10_10265/" title="神医废柴妃：鬼王，别缠我">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/10/10265.jpg" alt="神医废柴妃：鬼王，别缠我" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>神医废柴妃：鬼王，别缠我</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/16_16214/" title="《剑道毒尊》">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/16/16214.jpg" alt="《剑道毒尊》" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>《剑道毒尊》</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/5_5551/" title="抽个美女打江山">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/5/5551.jpg" alt="抽个美女打江山" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>抽个美女打江山</h3>
+					</a>
+				</li>				</ul>
+			</div>
+		</div>
+				<div id="hotcontent">
+			<div class="lll">
+				<h2>蚂蚁追书小说总榜</h2>
+				<ul>
+				<li class="item-cover">
+					<a href="/10_10484/" title="超维术士">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/10/10484.jpg" alt="超维术士" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>超维术士</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/5_5573/" title="超品医仙">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/5/5078/5078s.jpg" alt="超品医仙" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>超品医仙</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/5_5568/" title="千金归来：帝少，宠上天！">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/7/7392/7392s.jpg" alt="千金归来：帝少，宠上天！" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>千金归来：帝少，宠上天！</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/12_12644/" title="女子监狱风云">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/1/1405/1405s.jpg" alt="女子监狱风云" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>女子监狱风云</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/6_6363/" title="余生漫漫皆为你">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/20/20086/20086s.jpg" alt="余生漫漫皆为你" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>余生漫漫皆为你</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/6_6724/" title="封帝录">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="封帝录" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>封帝录</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/10_10266/" title="六零俏军媳">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/10/10266.jpg" alt="六零俏军媳" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>六零俏军媳</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/10_10437/" title="困龙苍穹">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/1/1093/1093s.jpg" alt="困龙苍穹" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>困龙苍穹</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/10_10264/" title="黄金渔村">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/10/10264.jpg" alt="黄金渔村" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>黄金渔村</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/6_6702/" title="《我的魔法时代》">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6702.jpg" alt="《我的魔法时代》" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>《我的魔法时代》</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/6_6701/" title="《星际金仙帝国》">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6701.jpg" alt="《星际金仙帝国》" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>《星际金仙帝国》</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/12_12633/" title="劈天斩神">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/12/12633.jpg" alt="劈天斩神" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>劈天斩神</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/14_14177/" title="《高冷老公，宠到底！》">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="《高冷老公，宠到底！》" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>《高冷老公，宠到底！》</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/1_1669/" title="史上最牛轮回">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/1/1669.jpg" alt="史上最牛轮回" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>史上最牛轮回</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/6_6700/" title="《穿越喵》">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6700.jpg" alt="《穿越喵》" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>《穿越喵》</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/14_14102/" title="末世钢铁车队">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/14/14102.jpg" alt="末世钢铁车队" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>末世钢铁车队</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/12_12630/" title="科技大仙宗">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/12/12630.jpg" alt="科技大仙宗" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>科技大仙宗</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/7_7376/" title="最强三界神话">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="最强三界神话" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>最强三界神话</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/12_12649/" title="入骨暖婚">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/10/10577/10577s.jpg" alt="入骨暖婚" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>入骨暖婚</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/14_14101/" title="末世之深渊召唤师">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="末世之深渊召唤师" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>末世之深渊召唤师</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/6_6357/" title="名门婚宠：晚安，郝太太">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/7/7283/7283s.jpg" alt="名门婚宠：晚安，郝太太" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>名门婚宠：晚安，郝太太</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/12_12662/" title="《司礼监》">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/12/12662.jpg" alt="《司礼监》" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>《司礼监》</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/10_10434/" title="神级透视高手">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/0/764/764s.jpg" alt="神级透视高手" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>神级透视高手</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/6_6782/" title="《真武狂龙》">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6782.jpg" alt="《真武狂龙》" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>《真武狂龙》</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/10_10493/" title="一纸成婚：顾少宠妻成瘾">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/9/9104/9104s.jpg" alt="一纸成婚：顾少宠妻成瘾" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>一纸成婚：顾少宠妻成瘾</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/6_6699/" title="《救世主都是美少女》">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/6/6699.jpg" alt="《救世主都是美少女》" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>《救世主都是美少女》</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/12_12650/" title="惹火娇妻，宠你上瘾">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/10/10749/10749s.jpg" alt="惹火娇妻，宠你上瘾" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>惹火娇妻，宠你上瘾</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/6_6692/" title="风铃怨系列一：怪校奇谈">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="https://www.ckxsw.com/files/article/image/0/980/980s.jpg" alt="风铃怨系列一：怪校奇谈" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>风铃怨系列一：怪校奇谈</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/5_5674/" title="《强宠100天：攻略亿万首席》">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="《强宠100天：攻略亿万首席》" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>《强宠100天：攻略亿万首席》</h3>
+					</a>
+				</li><li class="item-cover">
+					<a href="/1_1925/" title="骗个大小姐当老婆">
+						<img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/1/1925.jpg" alt="骗个大小姐当老婆" onerror="this.src='/Public/images/nocover.jpg'" />
+						<h3>骗个大小姐当老婆</h3>
+					</a>
+				</li>				</ul>
+			</div>
+		</div>
+			</div>
+	<div class="footer">
+	<div class="footer_link"></div>
+	<div class="footer_cont">
+		<script>footer();</script><div style="display:none"><script src="https://s5.cnzz.com/z_stat.php?id=1275484593&web_id=1275484593" language="JavaScript"></script></div>
+
+	</div>
+</div>
+<script src="//cdn.bootcss.com/jquery_lazyload/1.9.7/jquery.lazyload.min.js"></script>
+<script>
+$(function() {
+	$('[rel-class=lazyload]').lazyload({effect: "fadeIn"});
+});
+</script>
+</div>
+</body>
+</html>

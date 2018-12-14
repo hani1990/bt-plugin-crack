@@ -1,0 +1,437 @@
+﻿<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="maximum-scale=1.0,minimum-scale=1.0,user-scalable=0,width=device-width,initial-scale=1.0" />
+	<title>网游小说_蚂蚁追书</title>
+	<meta name="keywords" content="网游小说,蚂蚁追书,网游小说排行,网游小说在线阅读">
+	<meta name="description" content="蚂蚁追书为您提供网游小说在线阅读、无弹窗网游小说、网游小说txt下载，蚂蚁追书推荐您收藏本站。">
+	<link rel="stylesheet" type="text/css" href="/Public/wap/css/ptm.min.css?v6.14" />
+	<link rel="stylesheet" type="text/css" href="/Public/wap/css/skin.min.css" />
+	<link rel="stylesheet" type="text/css" href="/Public/wap/css/font-awesome.min.css" />
+</head>
+<body>
+<header class="ptm-bar ptm-bar-nav">
+	<a class="ptm-pull-left" href="/">
+		<span class="ptm-iconfont fa fa-home"></span>
+	</a>
+	<div class="ptm-title">蚂蚁追书</div>
+	<a class="ptm-pull-right" href="javascript:;">
+		<span class="ptm-iconfont fa fa-search"></span>
+	</a>
+	<div class="back_r"><a id="translatelink" style="color:red;" href="javascript:translatePage();" title="点击[繁/简]切换">繁体版</a></div>
+</header>
+<section class="ptm-content">
+	<div class="ptm-tab">
+	<ul class="ptm-tab-nav">
+		<li ><a href="http://m.myzhuishu.com/">首页</a></li>
+		<li class="nav-sort active"><a href="/xiaoshuodaquan">分类</a></li>
+		<li ><a href="/paihangbang/">排行</a></li>
+		<li ><a href="/home/search">搜索</a></li>
+		<li ><a href="/home/index/bookcase">书架</a></li>
+	</ul>
+</div>
+	<div class="categories ptm-clearfix">
+		<ul>
+			<li><a href="/xiaoshuodaquan">全部小说</a></li>
+			<li><a href="/xuanhuan/" >玄幻小说</a></li><li><a href="/xiuzhen/" >修真小说</a></li><li><a href="/dushi/" >都市小说</a></li><li><a href="/lishi/" >历史小说</a></li><li><a href="/wangyou/" class="current">网游小说</a></li><li><a href="/kehuan/" >科幻小说</a></li><li><a href="/nvpin/" >女频小说</a></li>		</ul>
+		<div class="c10"></div>
+	</div>
+	<div class="ptm-card">
+		<div class="ptm-card-header ptm-clearfix">
+			<div class="ptm-pull-left">
+				网游小说本月热门
+			</div>
+			<div class="ptm-pull-right">
+				<a href="/paihangbang/">更多>></a>
+			</div>
+		</div>
+		<div class="ptm-card-content" style="padding:0">
+			<ul class="ptm-list-view ptm-grid-view pt-card-1">
+				<li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/10_10192/" title="暗黑破坏神之野蛮人小白"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="暗黑破坏神之野蛮人小白"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/10_10192/" title="暗黑破坏神之野蛮人小白">暗黑破坏神之野蛮人小白</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/10_10304/" title="《都市之捉鬼天师》"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/10/10304.jpg" alt="《都市之捉鬼天师》"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/10_10304/" title="《都市之捉鬼天师》">《都市之捉鬼天师》</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/5_5400/" title="重生之暗夜崛起"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/5/5400.jpg" alt="重生之暗夜崛起"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/5_5400/" title="重生之暗夜崛起">重生之暗夜崛起</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/6_6376/" title="网游三国之兵临城下"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="网游三国之兵临城下"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/6_6376/" title="网游三国之兵临城下">网游三国之兵临城下</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/5_5937/" title="大逆锋"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/5/5937.jpg" alt="大逆锋"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/5_5937/" title="大逆锋">大逆锋</a></span>
+					</div>
+				</li><li class="ptm-list-view-cell ptm-img ptm-col-xs-4">
+					<div class="imgarea">
+						<a href="/7_7107/" title="席卷晚明"><img class="ptm-img-object" rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/7/7107.jpg" alt="席卷晚明"></a>
+					</div>
+					<div class="ptm-img-body">
+						<span class="ptm-block pt-name ptm-text-cut"><a href="/7_7107/" title="席卷晚明">席卷晚明</a></span>
+					</div>
+				</li>			</ul>
+		</div>
+	</div>
+		<div class="ptm-card">
+		<div class="ptm-card-header ptm-clearfix">
+			<div class="ptm-pull-left">
+				网游小说小说大全
+			</div>
+			<div class="ptm-pull-right">
+				第4页
+			</div>
+		</div>
+		<div class="ptm-card-content">
+			<ul class="pt-card pt-card-7">
+				<li>
+					<div class="pt-cover">
+						<a href="/12_12521/" title="末世之绝世剑仙"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="末世之绝世剑仙"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">125</span>人阅读</div>
+						<div class="pt-name"><a href="/12_12521/" title="末世之绝世剑仙">末世之绝世剑仙</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E7%8B%AC%E9%92%93%E9%95%BF%E6%B1%9F%E9%9B%AA.html" target="_blank" title="独钓长江雪">独钓长江雪</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：末世三百余年，自爆金丹回到末世初期的姬乐天轻指一弹手中之剑，默默地对天说道：“这一世，仙缘是我的，仙</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/14_14420/" title="星河步兵"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/14/14420.jpg" alt="星河步兵"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">14</span>人阅读</div>
+						<div class="pt-name"><a href="/14_14420/" title="星河步兵">星河步兵</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E8%A1%80%E6%97%8F%E7%9A%87%E5%82%A8.html" target="_blank" title="血族皇储">血族皇储</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：星际时代的步兵之王！～</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/12_12520/" title="机斗巅峰"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="机斗巅峰"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">47</span>人阅读</div>
+						<div class="pt-name"><a href="/12_12520/" title="机斗巅峰">机斗巅峰</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%85%B0%E7%A5%A5.html" target="_blank" title="兰祥">兰祥</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：亲身父亲被星际联盟所判为战犯并执行了死刑，身为战犯的儿子薛逸清，因身世的关系被家乡祖国抛弃。拥有意识</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/14_14419/" title="星战归途"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/14/14419.jpg" alt="星战归途"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">35</span>人阅读</div>
+						<div class="pt-name"><a href="/14_14419/" title="星战归途">星战归途</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E6%99%93%E5%8D%8E%E7%A7%91%E5%B9%BB%E7%B3%BB%E5%88%97.html" target="_blank" title="晓华科幻系列">晓华科幻系列</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：遗落河外星系，归途在何方？黑暗宇宙，猎人满布，处处杀机；高科技大杀器、凶悍生物、匪夷所思之阴谋，轮番</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/14_14574/" title="《追凶108式》"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="《追凶108式》"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">9</span>人阅读</div>
+						<div class="pt-name"><a href="/14_14574/" title="《追凶108式》">《追凶108式》</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E4%BC%8A%E7%84%B6%E8%AF%AD%E5%AB%A3.html" target="_blank" title="伊然语嫣">伊然语嫣</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：《追凶108式》为作者伊然语嫣创作，作品追凶108式章章动人，凤凰小说网为你第一时间提供伊然语嫣精心</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/14_14579/" title="《疑云重重之校园疑云》"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/14/14579.jpg" alt="《疑云重重之校园疑云》"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">7</span>人阅读</div>
+						<div class="pt-name"><a href="/14_14579/" title="《疑云重重之校园疑云》">《疑云重重之校园疑云》</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E7%8B%AC%E6%B1%9F%E9%85%8C%E9%85%92.html" target="_blank" title="独江酌酒">独江酌酒</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：《疑云重重之校园疑云》为作者独江酌酒创作，作品疑云重重之校园疑云章章动人，凤凰小说网为你第一时间提供</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/14_14566/" title="暗夜陨落"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/14/14566.jpg" alt="暗夜陨落"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">10</span>人阅读</div>
+						<div class="pt-name"><a href="/14_14566/" title="暗夜陨落">暗夜陨落</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E4%BB%B0%E6%9C%9B%E6%98%9F%E6%9C%88.html" target="_blank" title="仰望星月">仰望星月</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：一个天才高中生林云在感到学院生活的无聊时，突然有一天一件同学的消失导致他不小心的进入了另一个世界。这</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/14_14565/" title="阴胎"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/14/14565.jpg" alt="阴胎"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">3</span>人阅读</div>
+						<div class="pt-name"><a href="/14_14565/" title="阴胎">阴胎</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E6%A1%83%E6%9C%A8%E7%94%9F.html" target="_blank" title="桃木生">桃木生</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：生来不祥，活着不易，我本来是肚腹里的死胎，却降临到了这个世上，遭人痛恨，命运多舛。有人望见我，说我不</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/14_14559/" title="你别吓唬我"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/14/14559.jpg" alt="你别吓唬我"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">7</span>人阅读</div>
+						<div class="pt-name"><a href="/14_14559/" title="你别吓唬我">你别吓唬我</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E4%BA%8C%E5%85%94.html" target="_blank" title="二兔">二兔</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：我办了个宽带，结果不是给人用的。后来，我觉得这些妖啊鬼啊的，还挺可爱，主要是好欺负……本书文风轻快，</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/14_14558/" title="狼君凶猛"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/14/14558.jpg" alt="狼君凶猛"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">5</span>人阅读</div>
+						<div class="pt-name"><a href="/14_14558/" title="狼君凶猛">狼君凶猛</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%8D%97%E6%B4%BE%E5%A4%A7%E5%8F%94.html" target="_blank" title="南派大叔">南派大叔</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：通知：《狼图腾》正式更名为《狼君凶猛》！！！我爱上了降头师的女儿，她的体内种下了情蛊，谁得到了她的身</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/14_14551/" title="致命供体"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/14/14551.jpg" alt="致命供体"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">6</span>人阅读</div>
+						<div class="pt-name"><a href="/14_14551/" title="致命供体">致命供体</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E8%BF%9E%E5%B1%B1.html" target="_blank" title="连山">连山</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：揭秘血腥的活取器官，这个星球上前所未有的邪恶。没有血缘的连体人，取器官的死囚突然苏醒，神秘的红棺。光</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/14_14553/" title="末世无上巅峰"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/14/14553.jpg" alt="末世无上巅峰"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">6</span>人阅读</div>
+						<div class="pt-name"><a href="/14_14553/" title="末世无上巅峰">末世无上巅峰</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E6%B4%9B%E7%8F%8F.html" target="_blank" title="洛珏">洛珏</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：灵异征文原凤翔市境内的一座无名城区中内。一座沾满了黑污肉酱的城墙，如同蜘蛛般的裂痕攀爬在上面，一身黑</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/14_14544/" title="捉妖师"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="捉妖师"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">9</span>人阅读</div>
+						<div class="pt-name"><a href="/14_14544/" title="捉妖师">捉妖师</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E6%9C%80%E4%BA%AE%E7%9C%BC%E7%9A%84%E6%98%9F.html" target="_blank" title="最亮眼的星">最亮眼的星</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：一家大户死了个人，我和师傅去做法事的时候，在西北角的浴室见到了一个身着红衣吊带裙的貌美女子。她问我要</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/14_14549/" title="十日九夜梦"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="十日九夜梦"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">6</span>人阅读</div>
+						<div class="pt-name"><a href="/14_14549/" title="十日九夜梦">十日九夜梦</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E7%B9%81%E4%BA%8E.html" target="_blank" title="繁于">繁于</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：公告：谢大家支持！“我想跟暗恋了很久的男神在一起。”“好”“我想报复让我净身出户的渣男前夫。”“好”</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/14_14550/" title="全球怪物在线"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/14/14550.jpg" alt="全球怪物在线"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">3</span>人阅读</div>
+						<div class="pt-name"><a href="/14_14550/" title="全球怪物在线">全球怪物在线</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%86%8D%E6%9D%A5%E4%B8%80%E6%94%AF%E5%A4%A7%E9%9B%AA%E8%8C%84.html" target="_blank" title="再来一支大雪茄">再来一支大雪茄</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：天才科学家以“梦幻因子”把全球进行了游戏化。游戏之后，大量的生物变成了各种的怪物：丧尸，魔兽，巨龙！</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/14_14541/" title="鬼夫，别来无恙"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="鬼夫，别来无恙"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">4</span>人阅读</div>
+						<div class="pt-name"><a href="/14_14541/" title="鬼夫，别来无恙">鬼夫，别来无恙</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E6%B6%A9%E8%80%81%E9%81%93.html" target="_blank" title="涩老道">涩老道</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：陆椛意，是民阳大学考古系的在校生，自记忆起，总能看到一些飘飘忽忽的东西，终于有一天，知道了，这些东西</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/0_128/" title="传奇之超级法师"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/0/128.jpg" alt="传奇之超级法师"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">18</span>人阅读</div>
+						<div class="pt-name"><a href="/0_128/" title="传奇之超级法师">传奇之超级法师</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E9%9A%94%E5%A3%81%E8%80%81%E7%8E%8B01.html" target="_blank" title="隔壁老王01">隔壁老王01</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：意外捡到一个登录器，本想怀旧玩一下传奇，没想到却意外链接了未来网络，成功登录了传奇世界虚拟游戏，更是</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/14_14421/" title="斗擎"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/14/14421.jpg" alt="斗擎"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">25</span>人阅读</div>
+						<div class="pt-name"><a href="/14_14421/" title="斗擎">斗擎</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E7%96%AF%E7%8B%82%E5%B0%8F%E5%BC%BA.html" target="_blank" title="疯狂小强">疯狂小强</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：斗破苍穹，擎立云天！斗擎，因战争而生！斗擎，是人类有史以来最强战斗兵器！斗擎，在人类生死存亡时刻横空</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/10_10401/" title="末日之游戏战场"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="末日之游戏战场"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">142</span>人阅读</div>
+						<div class="pt-name"><a href="/10_10401/" title="末日之游戏战场">末日之游戏战场</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%B3%BB%E6%99%A8.html" target="_blank" title="峻晨">峻晨</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：人类突然被神灵传送到了初级游戏战场，在初级游戏战场，人类将和宇宙中其他被传送的种族进行战斗，从而争夺</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/12_12525/" title="生死命途"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="生死命途"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">67</span>人阅读</div>
+						<div class="pt-name"><a href="/12_12525/" title="生死命途">生死命途</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%AF%92%E5%B4%96%E8%8B%8D%E9%B9%B0.html" target="_blank" title="寒崖苍鹰">寒崖苍鹰</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：一段阴阳相错的故事，一场追逐死亡的游戏，是命途？是归宿？纷乱的世界是阴谋的傀儡还是利益的奴隶？一个社</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/12_12512/" title="末日英雄联盟系统"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="末日英雄联盟系统"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">85</span>人阅读</div>
+						<div class="pt-name"><a href="/12_12512/" title="末日英雄联盟系统">末日英雄联盟系统</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%AF%92%E6%9D%BE%E5%8F%B9.html" target="_blank" title="寒松叹">寒松叹</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：光点落，妖魔现。灾难爆发，恐怖的怪物席卷全球。获得青梅警示的张承阳还没有来得及做什么，便因特殊原因陷</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/12_12508/" title="重启末世"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/12/12508.jpg" alt="重启末世"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">186</span>人阅读</div>
+						<div class="pt-name"><a href="/12_12508/" title="重启末世">重启末世</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%8F%A4%E7%BE%B2.html" target="_blank" title="古羲">古羲</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：这是一个活着却死去的世界，这是一个信仰坚定却崩溃的世界，这是一个应有尽有却一无所有的世界；我们渴望救</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/12_12510/" title="神国幻想"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="神国幻想"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">17</span>人阅读</div>
+						<div class="pt-name"><a href="/12_12510/" title="神国幻想">神国幻想</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%8F%B6%E5%8F%B6%E5%8F%B6.html" target="_blank" title="叶叶叶">叶叶叶</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：肉体被囚禁在巨大的机械都市，思维被束缚在虚拟的幻想世界，每一个人从出生到死亡所有的记忆，都是机械人用</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/12_12506/" title="虫慌"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="虫慌"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">97</span>人阅读</div>
+						<div class="pt-name"><a href="/12_12506/" title="虫慌">虫慌</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E7%B3%96%E9%86%8B%E4%BA%8E.html" target="_blank" title="糖醋于">糖醋于</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：一场雨，开启灭世的序幕。一只虫，埋下无尽的可能。他在虫潮之中穿梭，于生死之间行走，眼看一片美好凋零，</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/6_6376/" title="网游三国之兵临城下"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="网游三国之兵临城下"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">1875</span>人阅读</div>
+						<div class="pt-name"><a href="/6_6376/" title="网游三国之兵临城下">网游三国之兵临城下</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E2%80%A6.html" target="_blank" title="…">…</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：网游三国之兵临城下是由作者创作的网游小说，欢迎您来本站阅读网游三国之兵临城下</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/10_10192/" title="暗黑破坏神之野蛮人小白"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="暗黑破坏神之野蛮人小白"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">4510</span>人阅读</div>
+						<div class="pt-name"><a href="/10_10192/" title="暗黑破坏神之野蛮人小白">暗黑破坏神之野蛮人小白</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E2%80%A6.html" target="_blank" title="…">…</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：暗黑破坏神之野蛮人小白是由作者创作的网游小说，欢迎您来本站阅读暗黑破坏神之野蛮人小白</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/12_12518/" title="全方位幻想"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/uploads/12/12518.jpg" alt="全方位幻想"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">469</span>人阅读</div>
+						<div class="pt-name"><a href="/12_12518/" title="全方位幻想">全方位幻想</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%A6%82%E5%80%BE%E5%A6%82%E8%AF%89.html" target="_blank" title="如倾如诉">如倾如诉</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：一片羽毛代表一个世界！这是只存在于幻想中的一个世界！不！应该说，这是只存在于幻想中的一个个世界！只可</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/12_12524/" title="我真是老司机"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="我真是老司机"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">205</span>人阅读</div>
+						<div class="pt-name"><a href="/12_12524/" title="我真是老司机">我真是老司机</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E4%BC%9E%E9%AD%82.html" target="_blank" title="伞魂">伞魂</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：地球幽冥界，是整个大宇宙平行世界的枢纽。故事就从这个灵魂中转站开始。对对对，就是你，别乱看。我就是老</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/12_12513/" title="梦境边缘"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="梦境边缘"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">158</span>人阅读</div>
+						<div class="pt-name"><a href="/12_12513/" title="梦境边缘">梦境边缘</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E7%8B%BC%E7%9B%B8%E5%A6%82.html" target="_blank" title="狼相如">狼相如</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：ε△з他是咖啡店的店员，不端盘子不洗碗，专替别人解决麻烦。他是月城的狩梦人，和所有人一样，他的梦也被</div>
+					</div>
+				</li><li>
+					<div class="pt-cover">
+						<a href="/10_10403/" title="时梭之门"><img rel-class="lazyload" src="/Public/images/nocover.jpg" data-original="/Public/images/nocover.jpg" alt="时梭之门"></a>
+					</div>
+					<div class="pt-novel">
+						<div class="pt-num ptm-pull-right"><span style="color:orange">49</span>人阅读</div>
+						<div class="pt-name"><a href="/10_10403/" title="时梭之门">时梭之门</a></div>
+						<div class="pt-author">作者：<a href="/writter/%E5%AD%90%E5%A4%9C%E5%88%9D%E6%9E%97.html" target="_blank" title="子夜初林">子夜初林</a> | 分类：<a href="/wangyou/">网游小说</a></div>
+						<div class="pt-desc ptm-text-cut">简介：不同的文明，不同的体系，穿梭彼此交织的世界。陈安踏上前行的路，走向未知的旅程……&lt;/p&gt;</div>
+					</div>
+				</li>			</ul>
+		</div>
+		<div class="ptm-card-footer" id="pages">
+			<ul><li><a href="/wangyou/page_3.html" target="_self">&laquo; 上一页</a><li><a href="/wangyou/page_2.html" target="_self">2</a></li><li><a href="/wangyou/page_3.html" target="_self">3</a></li><li class="current"><a href="/wangyou/page_4.html" target="_self">4</a></li><li><a href="/wangyou/page_5.html" target="_self">5</a></li><li><a href="/wangyou/page_6.html" target="_self">6</a></li><li><a href="/wangyou/page_5.html" target="_self">下一页 &raquo;</a></ul>		</div>	</div>
+	</section>
+<div class="ptm-line-x"></div>
+<div class="footer">
+	<p>本站系基于互联网搜索引擎技术为您提供信息检索服务。</p>
+	<p>Copyright ©2017 <div style="display:none"><script src="https://s5.cnzz.com/z_stat.php?id=1275484593&web_id=1275484593" language="JavaScript"></script></div>
+
+</p>
+</div>
+<section class="ptm-bar ptm-fix ptm-search">
+	<div class="searchbox ptm-clearfix">
+		<form action="/home/search" name="searchbtm" method="post">
+			<input type="hidden" name="action" value="search">
+			<input name="q" placeholder="请输入小说名或作者名，勿错字" type="text" class="searchinput" required><button class="searchbtn ptm-btn-primary" type="submit">搜索</button>
+		</form>	</div>
+</section>
+<script type="text/javascript" src="/Public/wap/js/zepto.min.js"></script>
+<script type="text/javascript" src="/Public/wap/js/base.js?v6.14"></script>
+<script type="text/javascript" src="/Public/trans.js?v6.14"></script>
+<script src="//cdn.bootcss.com/jquery/2.2.1/jquery.min.js"></script>
+<script src="//cdn.bootcss.com/jquery_lazyload/1.9.7/jquery.lazyload.min.js"></script>
+<script>
+$(function() {
+	jQuery('[rel-class=lazyload]').lazyload({effect: "fadeIn"});
+});
+</script><div style="display:none"><script src="https://s5.cnzz.com/z_stat.php?id=1275484593&web_id=1275484593" language="JavaScript"></script></div>
+</body>
+</html>
